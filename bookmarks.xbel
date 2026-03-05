@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :824: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Menu</title>
+</folder>
+<folder id="2">
+  <title>Bookmarks Bar</title>
+  <folder id="5">
+    <title>Free Content</title>
+    <bookmark href="https://librivox.org/" id="170">
+      <title>LibriVox</title>
+    </bookmark>
+    <bookmark href="https://openclipart.org/" id="171">
+      <title>Open Clip Art</title>
+    </bookmark>
+    <bookmark href="https://www.freesound.org/" id="172">
+      <title>Free Sound</title>
+    </bookmark>
+    <bookmark href="https://creativecommons.org/" id="173">
+      <title>Creative Commons</title>
+    </bookmark>
+    <bookmark href="https://pixabay.com/" id="174">
+      <title>Pixabay</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://mcgillij.dev/" id="6">
+    <title>Dev Oops - All things Arch, Debian and Python</title>
+  </bookmark>
+  <bookmark href="https://stroobants.dev/" id="7">
+    <title>Stroobants.dev</title>
+  </bookmark>
+  <bookmark href="https://www.listennotes.com/podcast-datasets/" id="8">
+    <title>Podcast Datasets: Podcast data in CSV or SQLite</title>
+  </bookmark>
+  <bookmark href="https://dwheeler.com/secure-programs/" id="9">
+    <title>Secure Programming HOWTO - Information on Creating Secure Software</title>
+  </bookmark>
+  <bookmark href="https://linux.die.net/" id="10">
+    <title>Linux Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.gnu.org/" id="11">
+    <title>The GNU Operating System and the Free Software Movement</title>
+  </bookmark>
+  <bookmark href="https://en.cppreference.com/w/" id="12">
+    <title>cppreference.com</title>
+  </bookmark>
+  <bookmark href="https://www.oracle.com/java/technologies/a-swing-architecture.html" id="13">
+    <title>A Swing Architecture Overview</title>
+  </bookmark>
+  <bookmark href="https://http.dev/session" id="14">
+    <title>A typical HTTP session explained</title>
+  </bookmark>
+  <bookmark href="https://cs61.seas.harvard.edu/site/2018/Synch2/" id="15">
+    <title>Synchronization 2: Mutex, bounded buffers – CS 61 2018</title>
+  </bookmark>
+  <folder id="16">
+    <title>study</title>
+    <bookmark href="https://cs61.seas.harvard.edu/site/2023/#gsc.tab=0" id="189">
+      <title>CS 61</title>
+    </bookmark>
+    <bookmark href="https://www.csl.mtu.edu/cs3331.ck/www/3331-slides.html" id="190">
+      <title>CS3331 Concurrent Computing Resource Page</title>
+    </bookmark>
+    <bookmark href="https://www.joshwcomeau.com/" id="191">
+      <title>Josh W Comeau</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://www.it.uu.se/education/course/homepage/os/vt18/module-4/bounded-buffer/" id="17">
+    <title>Bounded buffer :: Operating systems 2018</title>
+  </bookmark>
+  <bookmark href="https://storm.cis.fordham.edu/harazduk/OS/lab3.html" id="18">
+    <title>https://storm.cis.fordham.edu/harazduk/OS/lab3.html</title>
+  </bookmark>
+  <bookmark href="https://www.haskell.org/onlinereport/syntax-iso.html" id="19">
+    <title>Haskell 98 Syntax</title>
+  </bookmark>
+  <bookmark href="http://pendell.atspace.cc/so3ic.html" id="20">
+    <title>SO3 Item Creation Calculator v1.02</title>
+  </bookmark>
+  <bookmark href="https://www.hathitrust.org/" id="21">
+    <title>HathiTrust Digital Library – Millions of books online</title>
+  </bookmark>
+  <bookmark href="https://www.gutenberg.org/" id="22">
+    <title>Free eBooks | Project Gutenberg</title>
+  </bookmark>
+  <bookmark href="https://protobuf.dev/reference/java/java-generated/" id="23">
+    <title>Java Generated Code Guide | Protocol Buffers Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.cbyexample.com/" id="24">
+    <title>C by Example | Learn the basics of C and C++</title>
+  </bookmark>
+  <bookmark href="https://goalkicker.com/" id="25">
+    <title>Free Programming Books – GoalKicker.com</title>
+  </bookmark>
+  <bookmark href="https://exercism.org/tracks" id="26">
+    <title>Treasure Chest in Gleam on Exercism</title>
+  </bookmark>
+  <bookmark href="https://java-programming.mooc.fi/support-and-assistance" id="27">
+    <title>Support and assistance - Java Programming</title>
+  </bookmark>
+  <bookmark href="https://programming-24.mooc.fi/" id="28">
+    <title>About this course - Python Programming MOOC 2024</title>
+  </bookmark>
+  <bookmark href="http://nm.mathforcollege.com/topics/newton_divided_difference_method.html" id="29">
+    <title>Newton&apos;s Divided Difference Polynomial: Interpolation</title>
+  </bookmark>
+  <folder id="30">
+    <title>Parrot OS</title>
+    <bookmark href="https://www.parrotsec.org/docs/" id="193">
+      <title>Documentation</title>
+    </bookmark>
+    <bookmark href="https://www.parrotsec.org/community/" id="194">
+      <title>Community</title>
+    </bookmark>
+    <bookmark href="https://crypt.parrot.sh/" id="195">
+      <title>Online secure note</title>
+    </bookmark>
+    <bookmark href="https://www.parrotsec.org/team/" id="196">
+      <title>Parrot Team</title>
+    </bookmark>
+    <bookmark href="https://www.parrotsec.org/donate/" id="197">
+      <title>Donations and Gadgets</title>
+    </bookmark>
+  </folder>
+  <folder id="31">
+    <title>Hack The Box</title>
+    <bookmark href="https://www.hackthebox.com/" id="199">
+      <title>Hack The Box Home</title>
+    </bookmark>
+    <bookmark href="https://www.hackthebox.com/hacker/hacking-labs" id="200">
+      <title>Hacking Labs</title>
+    </bookmark>
+    <bookmark href="https://forum.hackthebox.com/" id="201">
+      <title>Hack The Box Forum</title>
+    </bookmark>
+    <bookmark href="https://www.hackthebox.com/hacker/infosec-careers" id="202">
+      <title>CyberSec Careers</title>
+    </bookmark>
+    <bookmark href="https://academy.hackthebox.com/" id="203">
+      <title>Hack The Box training</title>
+    </bookmark>
+    <bookmark href="https://www.hackthebox.com/blog" id="204">
+      <title>Hack The Box Blog</title>
+    </bookmark>
+    <bookmark href="https://help.hackthebox.com/en/" id="205">
+      <title>Hack The Box Guides</title>
+    </bookmark>
+  </folder>
+  <folder id="32">
+    <title>OSINT Services</title>
+    <folder id="207">
+      <title>Air &amp; Space Tracking</title>
+      <bookmark href="https://globe.adsbexchange.com/" id="430">
+        <title>ADSB Exchange</title>
+      </bookmark>
+      <bookmark href="https://flightaware.com/live/" id="431">
+        <title>Flightware</title>
+      </bookmark>
+      <bookmark href="https://www.radarbox.com/" id="432">
+        <title>Radarbox</title>
+      </bookmark>
+      <bookmark href="https://www.airportia.com/" id="433">
+        <title>Airportia</title>
+      </bookmark>
+      <bookmark href="https://tracker.habhub.org/" id="434">
+        <title>HabHub</title>
+      </bookmark>
+      <bookmark href="https://satellitemap.space/" id="435">
+        <title>Satellite Map</title>
+      </bookmark>
+      <bookmark href="https://geoxc-apps2.bd.esri.com/Visualization/sat2/index.html" id="436">
+        <title>SatelliteXplorer</title>
+      </bookmark>
+      <bookmark href="https://in-the-sky.org/satmap_worldmap.php" id="437">
+        <title>Live Satellite Worldmap</title>
+      </bookmark>
+    </folder>
+    <folder id="208">
+      <title>Land &amp; Sea Tracking</title>
+      <bookmark href="https://www.openrailwaymap.org/" id="438">
+        <title>Open Railway</title>
+      </bookmark>
+      <bookmark href="https://mobility.portal.geops.io/" id="439">
+        <title>Mobility Portal</title>
+      </bookmark>
+      <bookmark href="https://www.opentraintimes.com/maps" id="440">
+        <title>Open Train Times</title>
+      </bookmark>
+      <bookmark href="https://satellites.pro/" id="441">
+        <title>Open Satellite World Map</title>
+      </bookmark>
+    </folder>
+    <folder id="209">
+      <title>Camera Tracking</title>
+      <bookmark href="http://www.insecam.org/" id="442">
+        <title>Insecam</title>
+      </bookmark>
+      <bookmark href="https://www.earthcam.com/" id="443">
+        <title>EarthCam</title>
+      </bookmark>
+      <bookmark href="https://www.fisgonia.com/" id="444">
+        <title>fisgonia</title>
+      </bookmark>
+      <bookmark href="https://worldcam.eu/" id="445">
+        <title>WorldCam</title>
+      </bookmark>
+      <bookmark href="http://www.opentopia.com/hiddencam.php" id="446">
+        <title>OpenTopia</title>
+      </bookmark>
+      <bookmark href="https://www.livefromiceland.is/" id="447">
+        <title>Live Iceland Cams</title>
+      </bookmark>
+    </folder>
+    <folder id="210">
+      <title>Search Engines</title>
+      <bookmark href="https://www.shodan.io/" id="448">
+        <title>Shodan</title>
+      </bookmark>
+      <bookmark href="https://search.censys.io/" id="449">
+        <title>Censys</title>
+      </bookmark>
+      <bookmark href="https://viz.greynoise.io/" id="450">
+        <title>GreyNoise</title>
+      </bookmark>
+      <bookmark href="https://www.zoomeye.org/" id="451">
+        <title>ZoomEye</title>
+      </bookmark>
+      <bookmark href="https://hunter.io/" id="452">
+        <title>Hunter.IO</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="33">
+    <title>Vuln DB</title>
+    <bookmark href="https://www.exploit-db.com/" id="211">
+      <title>Exploit DB</title>
+    </bookmark>
+    <bookmark href="https://wpscan.com/wordpresses" id="212">
+      <title>Wordpress Vulnerabilities WPScan</title>
+    </bookmark>
+    <bookmark href="https://patchstack.com/database/" id="213">
+      <title>WordPress Vulnerability Database</title>
+    </bookmark>
+    <bookmark href="https://nvd.nist.gov/" id="214">
+      <title>National Vuln Database</title>
+    </bookmark>
+    <bookmark href="https://www.cvedetails.com/" id="215">
+      <title>CVE Details</title>
+    </bookmark>
+    <bookmark href="https://packetstormsecurity.com/" id="216">
+      <title>Packetstorm</title>
+    </bookmark>
+    <bookmark href="https://vuldb.com/" id="217">
+      <title>VulnDB</title>
+    </bookmark>
+    <bookmark href="https://cxsecurity.com/exploit/" id="218">
+      <title>CXSecurity Exploit Database</title>
+    </bookmark>
+    <bookmark href="https://www.vulnerability-lab.com/" id="219">
+      <title>Vulnerability Lab</title>
+    </bookmark>
+  </folder>
+  <folder id="34">
+    <title>Privacy and Security</title>
+    <bookmark href="https://eff.org/" id="221">
+      <title>Electronic Frontier Foundation</title>
+    </bookmark>
+    <bookmark href="https://ssd.eff.org/" id="222">
+      <title>Surveillance Self Defense</title>
+    </bookmark>
+    <bookmark href="https://emailselfdefense.fsf.org/" id="223">
+      <title>Email Privacy Self Defense</title>
+    </bookmark>
+    <bookmark href="https://gnupg.org/documentation/howtos.html" id="224">
+      <title>GnuPG - HOWTOs</title>
+    </bookmark>
+    <bookmark href="https://www.torproject.org/" id="225">
+      <title>Tor Project</title>
+    </bookmark>
+    <bookmark href="http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/" id="226">
+      <title>Onion Links</title>
+    </bookmark>
+    <bookmark href="https://www.deepl.com/" id="227">
+      <title>DeepL Translator</title>
+    </bookmark>
+    <bookmark href="https://filen.io/" id="228">
+      <title>E2E Cloud Storage</title>
+    </bookmark>
+    <bookmark href="https://www.privacytools.io/" id="229">
+      <title>PrivacyTools</title>
+    </bookmark>
+  </folder>
+  <folder id="35">
+    <title>Learning Resources</title>
+    <folder id="231">
+      <title>Programming</title>
+      <bookmark href="https://learn-bash.org/" id="467">
+        <title>Learn Bash</title>
+      </bookmark>
+      <bookmark href="https://www.learnpython.org/" id="468">
+        <title>Learn Python</title>
+      </bookmark>
+      <bookmark href="https://go.dev/learn/" id="469">
+        <title>Learn Go</title>
+      </bookmark>
+      <bookmark href="https://nim-lang.org/learn.html" id="470">
+        <title>Learn Nim</title>
+      </bookmark>
+      <bookmark href="https://www.learn-c.org/" id="471">
+        <title>Learn C</title>
+      </bookmark>
+      <bookmark href="https://www.learn-cpp.org/" id="472">
+        <title>Learn C++</title>
+      </bookmark>
+      <bookmark href="https://nodejs.dev/learn" id="473">
+        <title>Learn NodeJS</title>
+      </bookmark>
+      <bookmark href="https://dev.java/learn/" id="474">
+        <title>Learn Java</title>
+      </bookmark>
+      <bookmark href="https://www.learn-php.org/" id="475">
+        <title>Learn PHP</title>
+      </bookmark>
+    </folder>
+    <folder id="232">
+      <title>System and Networking</title>
+      <bookmark href="https://linuxjourney.com/" id="476">
+        <title>Linux Journey</title>
+      </bookmark>
+      <bookmark href="http://linux-training.be/" id="477">
+        <title>Linux Training</title>
+      </bookmark>
+      <bookmark href="https://www.debian.org/doc/manuals/debian-handbook/index.en.html" id="478">
+        <title>Debian Handbook</title>
+      </bookmark>
+      <bookmark href="https://wiki.archlinux.org/" id="479">
+        <title>Arch Linux Wiki</title>
+      </bookmark>
+      <bookmark href="https://www.softwaretestinghelp.com/computer-networking-basics/" id="480">
+        <title>Networking Basics</title>
+      </bookmark>
+      <bookmark href="https://www.computernetworkingnotes.com/networking-tutorials/" id="481">
+        <title>Networking Tutorials</title>
+      </bookmark>
+      <bookmark href="https://www.guru99.com/data-communication-computer-network-tutorial.html" id="482">
+        <title>Data Communication and Computer Network</title>
+      </bookmark>
+    </folder>
+    <folder id="233">
+      <title>Training Labs</title>
+      <bookmark href="https://github.com/ashemery/exploitation-course" id="483">
+        <title>Binary Exploit Training</title>
+      </bookmark>
+      <bookmark href="https://github.com/RPISEC/MBE" id="484">
+        <title>RIPSEC Binary Exploit Training</title>
+      </bookmark>
+      <bookmark href="https://exploit.education/" id="485">
+        <title>Exploit Education Labs</title>
+      </bookmark>
+      <bookmark href="https://portswigger.net/web-security" id="486">
+        <title>PortSwigger Web Exploit Lab</title>
+      </bookmark>
+      <bookmark href="https://pentesterlab.com/" id="487">
+        <title>PentesterLab</title>
+      </bookmark>
+      <bookmark href="https://owasp.org/www-project-webgoat/" id="488">
+        <title>OWASP WebGoat</title>
+      </bookmark>
+      <bookmark href="https://owasp.org/www-project-secure-coding-dojo/" id="489">
+        <title>OWASP Secure Coding Dojo</title>
+      </bookmark>
+    </folder>
+    <folder id="234">
+      <title>Materials</title>
+      <bookmark href="https://opensecuritytraining.info/Training.html" id="490">
+        <title>Open Security Training</title>
+      </bookmark>
+      <bookmark href="http://www.pentest-standard.org/index.php/Main_Page" id="491">
+        <title>Pentest Standard</title>
+      </bookmark>
+      <bookmark href="https://github.com/0xRadi/OWASP-Web-Checklist" id="492">
+        <title>OWASP Checklist</title>
+      </bookmark>
+      <bookmark href="http://www.computersecuritystudent.com/" id="493">
+        <title>Computer Security Student Tutorials</title>
+      </bookmark>
+      <bookmark href="https://guyinatuxedo.github.io/" id="494">
+        <title>Binary Exploit Learn</title>
+      </bookmark>
+      <bookmark href="https://gtfobins.github.io/" id="495">
+        <title>GTFO Bins</title>
+      </bookmark>
+      <bookmark href="https://github.com/0xRadi/OWASP-Web-Checklist" id="496">
+        <title>OWASP Pentest Checklist</title>
+      </bookmark>
+      <bookmark href="https://mirror.parrot.sh/parrot/misc/openbooks/" id="497">
+        <title>Parrot Open Books Collection</title>
+      </bookmark>
+      <bookmark href="https://freecomputerbooks.com/" id="498">
+        <title>Free Computer Books</title>
+      </bookmark>
+    </folder>
+    <folder id="235">
+      <title>Blogs and Researches</title>
+      <bookmark href="https://0xsp.com/offensive/privilege-escalation-cheatsheet/" id="499">
+        <title>Linux Privilege Escalation Cheatsheet 0xsp</title>
+      </bookmark>
+      <bookmark href="https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/" id="500">
+        <title>Linux Privilege Escalation Cheatsheet Redtm</title>
+      </bookmark>
+      <bookmark href="https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html" id="501">
+        <title>Offensive Windows IPC part 1: Named Pipes</title>
+      </bookmark>
+      <bookmark href="https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html" id="502">
+        <title>Offensive Windows IPC part 2: RPC</title>
+      </bookmark>
+      <bookmark href="https://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html" id="503">
+        <title>Offensive Windows IPC part 3: ALPC</title>
+      </bookmark>
+      <bookmark href="https://blog.kyleavery.com/posts/avoiding-memory-scanners/" id="504">
+        <title>Avoiding Memory Scanners</title>
+      </bookmark>
+      <bookmark href="https://s3cur3th1ssh1t.github.io/" id="505">
+        <title>s3cur3th1ssh1t Blog</title>
+      </bookmark>
+      <bookmark href="https://www.vx-underground.org/" id="506">
+        <title>VX Underground</title>
+      </bookmark>
+      <bookmark href="https://0x64marsh.com/?p=314" id="507">
+        <title>Kernel Driver Exploit: System Mechanic</title>
+      </bookmark>
+      <bookmark href="https://zer1t0.gitlab.io/posts/attacking_ad/" id="508">
+        <title>Attacking Active Directory</title>
+      </bookmark>
+      <bookmark href="https://www.blackhillsinfosec.com/blog/" id="509">
+        <title>Black Hills InfoSec Blog</title>
+      </bookmark>
+      <bookmark href="https://www.x86matthew.com/" id="510">
+        <title>x86Matthew Blog</title>
+      </bookmark>
+      <bookmark href="https://samcurry.net/blog/" id="511">
+        <title>Sam Curry Blog</title>
+      </bookmark>
+      <bookmark href="https://connormcgarr.github.io/" id="512">
+        <title>Connor McGarr Blog</title>
+      </bookmark>
+      <bookmark href="https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron" id="513">
+        <title>ElectroVolt: Pwning Popular Desktop Apps</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://register.com.np/userdomain" id="36">
+    <title>Nepal&apos;s official .np Domain Registration</title>
+  </bookmark>
+  <folder id="37">
+    <title>Free Content</title>
+    <bookmark href="https://librivox.org/" id="236">
+      <title>LibriVox</title>
+    </bookmark>
+    <bookmark href="https://openclipart.org/" id="237">
+      <title>Open Clip Art</title>
+    </bookmark>
+    <bookmark href="https://www.freesound.org/" id="238">
+      <title>Free Sound</title>
+    </bookmark>
+    <bookmark href="https://creativecommons.org/" id="239">
+      <title>Creative Commons</title>
+    </bookmark>
+    <bookmark href="https://pixabay.com/" id="240">
+      <title>Pixabay</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://mcgillij.dev/" id="38">
+    <title>Dev Oops - All things Arch, Debian and Python</title>
+  </bookmark>
+  <bookmark href="https://stroobants.dev/" id="39">
+    <title>Stroobants.dev</title>
+  </bookmark>
+  <bookmark href="https://www.listennotes.com/podcast-datasets/" id="40">
+    <title>Podcast Datasets: Podcast data in CSV or SQLite</title>
+  </bookmark>
+  <bookmark href="https://dwheeler.com/secure-programs/" id="41">
+    <title>Secure Programming HOWTO - Information on Creating Secure Software</title>
+  </bookmark>
+  <bookmark href="https://linux.die.net/" id="42">
+    <title>Linux Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.gnu.org/" id="43">
+    <title>The GNU Operating System and the Free Software Movement</title>
+  </bookmark>
+  <bookmark href="https://en.cppreference.com/w/" id="44">
+    <title>cppreference.com</title>
+  </bookmark>
+  <bookmark href="https://en.wikibooks.org/wiki/Category:Book:Computer_Programming" id="45">
+    <title>Category:Book:Computer Programming - Wikibooks, open books for an open world</title>
+  </bookmark>
+  <bookmark href="https://www.oracle.com/java/technologies/a-swing-architecture.html" id="46">
+    <title>A Swing Architecture Overview</title>
+  </bookmark>
+  <bookmark href="https://http.dev/session" id="47">
+    <title>A typical HTTP session explained</title>
+  </bookmark>
+  <bookmark href="https://cs61.seas.harvard.edu/site/2018/Synch2/" id="48">
+    <title>Synchronization 2: Mutex, bounded buffers – CS 61 2018</title>
+  </bookmark>
+  <folder id="49">
+    <title>study</title>
+    <bookmark href="https://cs61.seas.harvard.edu/site/2023/#gsc.tab=0" id="243">
+      <title>CS 61</title>
+    </bookmark>
+    <bookmark href="https://www.csl.mtu.edu/cs3331.ck/www/3331-slides.html" id="244">
+      <title>CS3331 Concurrent Computing Resource Page</title>
+    </bookmark>
+    <bookmark href="https://www.joshwcomeau.com/" id="245">
+      <title>Josh W Comeau</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://www.it.uu.se/education/course/homepage/os/vt18/module-4/bounded-buffer/" id="175">
+    <title>Bounded buffer :: Operating systems 2018</title>
+  </bookmark>
+  <bookmark href="https://storm.cis.fordham.edu/harazduk/OS/lab3.html" id="176">
+    <title>https://storm.cis.fordham.edu/harazduk/OS/lab3.html</title>
+  </bookmark>
+  <bookmark href="https://www.haskell.org/onlinereport/syntax-iso.html" id="177">
+    <title>Haskell 98 Syntax</title>
+  </bookmark>
+  <bookmark href="http://pendell.atspace.cc/so3ic.html" id="178">
+    <title>SO3 Item Creation Calculator v1.02</title>
+  </bookmark>
+  <bookmark href="https://www.hathitrust.org/" id="179">
+    <title>HathiTrust Digital Library – Millions of books online</title>
+  </bookmark>
+  <bookmark href="https://www.gutenberg.org/" id="180">
+    <title>Free eBooks | Project Gutenberg</title>
+  </bookmark>
+  <bookmark href="https://protobuf.dev/reference/java/java-generated/" id="181">
+    <title>Java Generated Code Guide | Protocol Buffers Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.cbyexample.com/" id="182">
+    <title>C by Example | Learn the basics of C and C++</title>
+  </bookmark>
+  <bookmark href="https://goalkicker.com/" id="183">
+    <title>Free Programming Books – GoalKicker.com</title>
+  </bookmark>
+  <bookmark href="https://exercism.org/tracks" id="184">
+    <title>Treasure Chest in Gleam on Exercism</title>
+  </bookmark>
+  <bookmark href="https://java-programming.mooc.fi/support-and-assistance" id="185">
+    <title>Support and assistance - Java Programming</title>
+  </bookmark>
+  <bookmark href="https://programming-24.mooc.fi/" id="186">
+    <title>About this course - Python Programming MOOC 2024</title>
+  </bookmark>
+  <bookmark href="http://nm.mathforcollege.com/topics/newton_divided_difference_method.html" id="187">
+    <title>Newton&apos;s Divided Difference Polynomial: Interpolation</title>
+  </bookmark>
+  <folder id="188">
+    <title>Parrot OS</title>
+    <bookmark href="https://www.parrotsec.org/docs/" id="405">
+      <title>Documentation</title>
+    </bookmark>
+    <bookmark href="https://www.parrotsec.org/community/" id="406">
+      <title>Community</title>
+    </bookmark>
+    <bookmark href="https://crypt.parrot.sh/" id="407">
+      <title>Online secure note</title>
+    </bookmark>
+    <bookmark href="https://www.parrotsec.org/team/" id="408">
+      <title>Parrot Team</title>
+    </bookmark>
+    <bookmark href="https://www.parrotsec.org/donate/" id="409">
+      <title>Donations and Gadgets</title>
+    </bookmark>
+  </folder>
+  <folder id="192">
+    <title>Hack The Box</title>
+    <bookmark href="https://www.hackthebox.com/" id="410">
+      <title>Hack The Box Home</title>
+    </bookmark>
+    <bookmark href="https://www.hackthebox.com/hacker/hacking-labs" id="411">
+      <title>Hacking Labs</title>
+    </bookmark>
+    <bookmark href="https://forum.hackthebox.com/" id="412">
+      <title>Hack The Box Forum</title>
+    </bookmark>
+    <bookmark href="https://www.hackthebox.com/hacker/infosec-careers" id="413">
+      <title>CyberSec Careers</title>
+    </bookmark>
+    <bookmark href="https://academy.hackthebox.com/" id="414">
+      <title>Hack The Box training</title>
+    </bookmark>
+    <bookmark href="https://www.hackthebox.com/blog" id="415">
+      <title>Hack The Box Blog</title>
+    </bookmark>
+    <bookmark href="https://help.hackthebox.com/en/" id="416">
+      <title>Hack The Box Guides</title>
+    </bookmark>
+  </folder>
+  <folder id="198">
+    <title>OSINT Services</title>
+    <folder id="417">
+      <title>Air &amp; Space Tracking</title>
+      <bookmark href="https://globe.adsbexchange.com/" id="517">
+        <title>ADSB Exchange</title>
+      </bookmark>
+      <bookmark href="https://flightaware.com/live/" id="518">
+        <title>Flightware</title>
+      </bookmark>
+      <bookmark href="https://www.radarbox.com/" id="519">
+        <title>Radarbox</title>
+      </bookmark>
+      <bookmark href="https://www.airportia.com/" id="520">
+        <title>Airportia</title>
+      </bookmark>
+      <bookmark href="https://tracker.habhub.org/" id="521">
+        <title>HabHub</title>
+      </bookmark>
+      <bookmark href="https://satellitemap.space/" id="522">
+        <title>Satellite Map</title>
+      </bookmark>
+      <bookmark href="https://geoxc-apps2.bd.esri.com/Visualization/sat2/index.html" id="523">
+        <title>SatelliteXplorer</title>
+      </bookmark>
+      <bookmark href="https://in-the-sky.org/satmap_worldmap.php" id="524">
+        <title>Live Satellite Worldmap</title>
+      </bookmark>
+    </folder>
+    <folder id="418">
+      <title>Land &amp; Sea Tracking</title>
+      <bookmark href="https://www.openrailwaymap.org/" id="525">
+        <title>Open Railway</title>
+      </bookmark>
+      <bookmark href="https://mobility.portal.geops.io/" id="526">
+        <title>Mobility Portal</title>
+      </bookmark>
+      <bookmark href="https://www.opentraintimes.com/maps" id="527">
+        <title>Open Train Times</title>
+      </bookmark>
+      <bookmark href="https://satellites.pro/" id="528">
+        <title>Open Satellite World Map</title>
+      </bookmark>
+    </folder>
+    <folder id="419">
+      <title>Camera Tracking</title>
+      <bookmark href="http://www.insecam.org/" id="529">
+        <title>Insecam</title>
+      </bookmark>
+      <bookmark href="https://www.earthcam.com/" id="530">
+        <title>EarthCam</title>
+      </bookmark>
+      <bookmark href="https://www.fisgonia.com/" id="531">
+        <title>fisgonia</title>
+      </bookmark>
+      <bookmark href="https://worldcam.eu/" id="532">
+        <title>WorldCam</title>
+      </bookmark>
+      <bookmark href="http://www.opentopia.com/hiddencam.php" id="533">
+        <title>OpenTopia</title>
+      </bookmark>
+      <bookmark href="https://www.livefromiceland.is/" id="534">
+        <title>Live Iceland Cams</title>
+      </bookmark>
+    </folder>
+    <folder id="420">
+      <title>Search Engines</title>
+      <bookmark href="https://www.shodan.io/" id="535">
+        <title>Shodan</title>
+      </bookmark>
+      <bookmark href="https://search.censys.io/" id="536">
+        <title>Censys</title>
+      </bookmark>
+      <bookmark href="https://viz.greynoise.io/" id="537">
+        <title>GreyNoise</title>
+      </bookmark>
+      <bookmark href="https://www.zoomeye.org/" id="538">
+        <title>ZoomEye</title>
+      </bookmark>
+      <bookmark href="https://hunter.io/" id="539">
+        <title>Hunter.IO</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="206">
+    <title>Vuln DB</title>
+    <bookmark href="https://www.exploit-db.com/" id="421">
+      <title>Exploit DB</title>
+    </bookmark>
+    <bookmark href="https://wpscan.com/wordpresses" id="422">
+      <title>Wordpress Vulnerabilities WPScan</title>
+    </bookmark>
+    <bookmark href="https://patchstack.com/database/" id="423">
+      <title>WordPress Vulnerability Database</title>
+    </bookmark>
+    <bookmark href="https://nvd.nist.gov/" id="424">
+      <title>National Vuln Database</title>
+    </bookmark>
+    <bookmark href="https://www.cvedetails.com/" id="425">
+      <title>CVE Details</title>
+    </bookmark>
+    <bookmark href="https://packetstormsecurity.com/" id="426">
+      <title>Packetstorm</title>
+    </bookmark>
+    <bookmark href="https://vuldb.com/" id="427">
+      <title>VulnDB</title>
+    </bookmark>
+    <bookmark href="https://cxsecurity.com/exploit/" id="428">
+      <title>CXSecurity Exploit Database</title>
+    </bookmark>
+    <bookmark href="https://www.vulnerability-lab.com/" id="429">
+      <title>Vulnerability Lab</title>
+    </bookmark>
+  </folder>
+  <folder id="220">
+    <title>Privacy and Security</title>
+    <bookmark href="https://eff.org/" id="453">
+      <title>Electronic Frontier Foundation</title>
+    </bookmark>
+    <bookmark href="https://ssd.eff.org/" id="454">
+      <title>Surveillance Self Defense</title>
+    </bookmark>
+    <bookmark href="https://emailselfdefense.fsf.org/" id="455">
+      <title>Email Privacy Self Defense</title>
+    </bookmark>
+    <bookmark href="https://gnupg.org/documentation/howtos.html" id="456">
+      <title>GnuPG - HOWTOs</title>
+    </bookmark>
+    <bookmark href="https://www.torproject.org/" id="457">
+      <title>Tor Project</title>
+    </bookmark>
+    <bookmark href="http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/" id="458">
+      <title>Onion Links</title>
+    </bookmark>
+    <bookmark href="https://www.deepl.com/" id="459">
+      <title>DeepL Translator</title>
+    </bookmark>
+    <bookmark href="https://filen.io/" id="460">
+      <title>E2E Cloud Storage</title>
+    </bookmark>
+    <bookmark href="https://www.privacytools.io/" id="461">
+      <title>PrivacyTools</title>
+    </bookmark>
+  </folder>
+  <folder id="230">
+    <title>Learning Resources</title>
+    <folder id="462">
+      <title>Programming</title>
+      <bookmark href="https://learn-bash.org/" id="540">
+        <title>Learn Bash</title>
+      </bookmark>
+      <bookmark href="https://www.learnpython.org/" id="541">
+        <title>Learn Python</title>
+      </bookmark>
+      <bookmark href="https://go.dev/learn/" id="542">
+        <title>Learn Go</title>
+      </bookmark>
+      <bookmark href="https://nim-lang.org/learn.html" id="543">
+        <title>Learn Nim</title>
+      </bookmark>
+      <bookmark href="https://www.learn-c.org/" id="544">
+        <title>Learn C</title>
+      </bookmark>
+      <bookmark href="https://www.learn-cpp.org/" id="545">
+        <title>Learn C++</title>
+      </bookmark>
+      <bookmark href="https://nodejs.dev/learn" id="546">
+        <title>Learn NodeJS</title>
+      </bookmark>
+      <bookmark href="https://dev.java/learn/" id="547">
+        <title>Learn Java</title>
+      </bookmark>
+      <bookmark href="https://www.learn-php.org/" id="548">
+        <title>Learn PHP</title>
+      </bookmark>
+    </folder>
+    <folder id="463">
+      <title>System and Networking</title>
+      <bookmark href="https://linuxjourney.com/" id="549">
+        <title>Linux Journey</title>
+      </bookmark>
+      <bookmark href="http://linux-training.be/" id="550">
+        <title>Linux Training</title>
+      </bookmark>
+      <bookmark href="https://www.debian.org/doc/manuals/debian-handbook/index.en.html" id="551">
+        <title>Debian Handbook</title>
+      </bookmark>
+      <bookmark href="https://wiki.archlinux.org/" id="552">
+        <title>Arch Linux Wiki</title>
+      </bookmark>
+      <bookmark href="https://www.softwaretestinghelp.com/computer-networking-basics/" id="553">
+        <title>Networking Basics</title>
+      </bookmark>
+      <bookmark href="https://www.computernetworkingnotes.com/networking-tutorials/" id="554">
+        <title>Networking Tutorials</title>
+      </bookmark>
+      <bookmark href="https://www.guru99.com/data-communication-computer-network-tutorial.html" id="555">
+        <title>Data Communication and Computer Network</title>
+      </bookmark>
+    </folder>
+    <folder id="464">
+      <title>Training Labs</title>
+      <bookmark href="https://github.com/ashemery/exploitation-course" id="556">
+        <title>Binary Exploit Training</title>
+      </bookmark>
+      <bookmark href="https://github.com/RPISEC/MBE" id="557">
+        <title>RIPSEC Binary Exploit Training</title>
+      </bookmark>
+      <bookmark href="https://exploit.education/" id="558">
+        <title>Exploit Education Labs</title>
+      </bookmark>
+      <bookmark href="https://portswigger.net/web-security" id="559">
+        <title>PortSwigger Web Exploit Lab</title>
+      </bookmark>
+      <bookmark href="https://pentesterlab.com/" id="560">
+        <title>PentesterLab</title>
+      </bookmark>
+      <bookmark href="https://owasp.org/www-project-webgoat/" id="561">
+        <title>OWASP WebGoat</title>
+      </bookmark>
+      <bookmark href="https://owasp.org/www-project-secure-coding-dojo/" id="562">
+        <title>OWASP Secure Coding Dojo</title>
+      </bookmark>
+    </folder>
+    <folder id="465">
+      <title>Materials</title>
+      <bookmark href="https://opensecuritytraining.info/Training.html" id="563">
+        <title>Open Security Training</title>
+      </bookmark>
+      <bookmark href="http://www.pentest-standard.org/index.php/Main_Page" id="564">
+        <title>Pentest Standard</title>
+      </bookmark>
+      <bookmark href="https://github.com/0xRadi/OWASP-Web-Checklist" id="565">
+        <title>OWASP Checklist</title>
+      </bookmark>
+      <bookmark href="http://www.computersecuritystudent.com/" id="566">
+        <title>Computer Security Student Tutorials</title>
+      </bookmark>
+      <bookmark href="https://guyinatuxedo.github.io/" id="567">
+        <title>Binary Exploit Learn</title>
+      </bookmark>
+      <bookmark href="https://gtfobins.github.io/" id="568">
+        <title>GTFO Bins</title>
+      </bookmark>
+      <bookmark href="https://github.com/0xRadi/OWASP-Web-Checklist" id="569">
+        <title>OWASP Pentest Checklist</title>
+      </bookmark>
+      <bookmark href="https://mirror.parrot.sh/parrot/misc/openbooks/" id="570">
+        <title>Parrot Open Books Collection</title>
+      </bookmark>
+      <bookmark href="https://freecomputerbooks.com/" id="571">
+        <title>Free Computer Books</title>
+      </bookmark>
+    </folder>
+    <folder id="466">
+      <title>Blogs and Researches</title>
+      <bookmark href="https://0xsp.com/offensive/privilege-escalation-cheatsheet/" id="572">
+        <title>Linux Privilege Escalation Cheatsheet 0xsp</title>
+      </bookmark>
+      <bookmark href="https://redtm.com/privilege-escalation/linux-privilege-escalation-cheat-sheet/" id="573">
+        <title>Linux Privilege Escalation Cheatsheet Redtm</title>
+      </bookmark>
+      <bookmark href="https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html" id="574">
+        <title>Offensive Windows IPC part 1: Named Pipes</title>
+      </bookmark>
+      <bookmark href="https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html" id="575">
+        <title>Offensive Windows IPC part 2: RPC</title>
+      </bookmark>
+      <bookmark href="https://csandker.io/2022/05/24/Offensive-Windows-IPC-3-ALPC.html" id="576">
+        <title>Offensive Windows IPC part 3: ALPC</title>
+      </bookmark>
+      <bookmark href="https://blog.kyleavery.com/posts/avoiding-memory-scanners/" id="577">
+        <title>Avoiding Memory Scanners</title>
+      </bookmark>
+      <bookmark href="https://s3cur3th1ssh1t.github.io/" id="578">
+        <title>s3cur3th1ssh1t Blog</title>
+      </bookmark>
+      <bookmark href="https://www.vx-underground.org/" id="579">
+        <title>VX Underground</title>
+      </bookmark>
+      <bookmark href="https://0x64marsh.com/?p=314" id="580">
+        <title>Kernel Driver Exploit: System Mechanic</title>
+      </bookmark>
+      <bookmark href="https://zer1t0.gitlab.io/posts/attacking_ad/" id="581">
+        <title>Attacking Active Directory</title>
+      </bookmark>
+      <bookmark href="https://www.blackhillsinfosec.com/blog/" id="582">
+        <title>Black Hills InfoSec Blog</title>
+      </bookmark>
+      <bookmark href="https://www.x86matthew.com/" id="583">
+        <title>x86Matthew Blog</title>
+      </bookmark>
+      <bookmark href="https://samcurry.net/blog/" id="584">
+        <title>Sam Curry Blog</title>
+      </bookmark>
+      <bookmark href="https://connormcgarr.github.io/" id="585">
+        <title>Connor McGarr Blog</title>
+      </bookmark>
+      <bookmark href="https://speakerdeck.com/s1r1us/electrovolt-pwning-popular-desktop-apps-while-uncovering-new-attack-surface-on-electron" id="586">
+        <title>ElectroVolt: Pwning Popular Desktop Apps</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <bookmark href="https://register.com.np/userdomain" id="241">
+    <title>Nepal&apos;s official .np Domain Registration</title>
+  </bookmark>
+  <folder id="242">
+    <title>Imported From Firefox</title>
+    <folder id="514">
+      <title>unfiled</title>
+      <folder id="587">
+        <title>GOOD</title>
+        <bookmark href="https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_1_3" id="688">
+          <title>Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)</title>
+        </bookmark>
+        <bookmark href="https://popovicu.com/posts/how-files-in-linux-work/" id="689">
+          <title>How files in Linux work</title>
+        </bookmark>
+        <bookmark href="https://www.d.umn.edu/~gshute/softeng/principles.html" id="690">
+          <title>Principles of Software Engineering</title>
+        </bookmark>
+        <bookmark href="https://linuxhandbook.com/" id="691">
+          <title>Linux Handbook</title>
+        </bookmark>
+        <bookmark href="https://haskellbook.com/" id="692">
+          <title>Haskell Programming - Home</title>
+        </bookmark>
+        <bookmark href="https://www.seas.upenn.edu/~cis1940/spring13/lectures.html" id="693">
+          <title>Lecture notes and assignments</title>
+        </bookmark>
+        <bookmark href="http://www.scs.stanford.edu/14sp-cs240h/" id="694">
+          <title>CS240h: Functional Systems in Haskell</title>
+        </bookmark>
+        <bookmark href="https://learnyouahaskell.com/chapters" id="695">
+          <title>Chapters - Learn You a Haskell for Great Good!</title>
+        </bookmark>
+        <bookmark href="https://learn-haskell.blog/" id="696">
+          <title>About this book - Learn Haskell by building a blog generator</title>
+        </bookmark>
+        <bookmark href="https://web.cs.dal.ca/~nzeh/Teaching/3137/haskell/" id="697">
+          <title>Introduction - CSCI 3137: Haskell Programming</title>
+        </bookmark>
+        <bookmark href="https://book.realworldhaskell.org/read/" id="698">
+          <title>Real World Haskell</title>
+        </bookmark>
+        <bookmark href="https://blogs.oracle.com/javamagazine/" id="699">
+          <title>Oracle Blogs | Java Magazine</title>
+        </bookmark>
+        <bookmark href="https://learnyouahaskell.com/syntax-in-functions" id="700">
+          <title>Syntax in Functions - Learn You a Haskell for Great Good!</title>
+        </bookmark>
+        <bookmark href="https://devsenv.com/tutorials/map" id="701">
+          <title>Map Data Structure with Practical Examples | DevsEnv</title>
+        </bookmark>
+        <bookmark href="https://www.oreilly.com/library/view/c-40-in/9781449379629/ch01.html" id="702">
+          <title>1. Introducing C# and the .NET Framework - C# 4.0 in a Nutshell, 4th Edition [Book]</title>
+        </bookmark>
+        <bookmark href="http://cht.sh/" id="703">
+          <title>cheat.sh/:firstpage</title>
+        </bookmark>
+        <bookmark href="https://www.schaffter.ca/mom/momdoc/toc.html" id="704">
+          <title>MOM groff</title>
+        </bookmark>
+        <bookmark href="https://www.sqlshack.com/learn-sql-sql-script/" id="705">
+          <title>Learn SQL: SQL Scripts</title>
+        </bookmark>
+        <bookmark href="https://www.mariadbtutorial.com/mariadb-basics/mariadb-subqueries/" id="706">
+          <title>MariaDB Subqueries</title>
+        </bookmark>
+        <bookmark href="https://sqlbolt.com/lesson/inserting_rows" id="707">
+          <title>SQLBolt - Learn SQL - SQL Lesson 13: Inserting rows</title>
+        </bookmark>
+        <bookmark href="https://www.linusakesson.net/programming/tty/" id="708">
+          <title>The TTY demystified</title>
+        </bookmark>
+        <bookmark href="http://0x0.st/" id="709">
+          <title>http://0x0.st/</title>
+        </bookmark>
+        <bookmark href="http://www.kohala.com/start/" id="710">
+          <title>W. Richard Stevens&apos; Home Page</title>
+        </bookmark>
+        <bookmark href="https://rust-book.cs.brown.edu/" id="711">
+          <title>Experiment Introduction - The Rust Programming Language</title>
+        </bookmark>
+        <bookmark href="https://rust-book.cs.brown.edu/ch01-03-hello-cargo.html" id="712">
+          <title>Hello, Cargo! - The Rust Programming Language</title>
+        </bookmark>
+        <bookmark href="https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html" id="713">
+          <title>Chapter 0   Preface — Computer Systems Fundamentals</title>
+        </bookmark>
+        <bookmark href="https://www.usna.edu/Users/cs/wcbrown/courses/IC221/classes/L09/Class.html" id="714">
+          <title>Class 9: The Unix Filesystem</title>
+        </bookmark>
+        <bookmark href="http://www.catb.org/~esr/faqs/hacker-howto.html" id="715">
+          <title>How To Become A Hacker</title>
+        </bookmark>
+        <bookmark href="http://www.catb.org/~esr/faqs/hacking-howto.html" id="716">
+          <title>How To Learn Hacking</title>
+        </bookmark>
+        <bookmark href="http://cslibrary.stanford.edu/" id="717">
+          <title>Stanford CS Ed Library</title>
+        </bookmark>
+        <bookmark href="https://web.cs.wpi.edu/~cs3013/c07/lectures/Section08-Memory_Management.pdf" id="718">
+          <title>Section08-Memory_Management - Section08-Memory_Management.pdf</title>
+        </bookmark>
+        <bookmark href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#Preface" id="719">
+          <title>The GNU C Reference Manual</title>
+        </bookmark>
+        <bookmark href="https://bottomupcs.com/index.html" id="720">
+          <title>Computer Science from the Bottom Up</title>
+        </bookmark>
+        <bookmark href="https://web.stanford.edu/class/archive/cs/cs107/cs107.1246/resources/x86-64-reference.pdf" id="721">
+          <title>x86-64-reference.pdf</title>
+        </bookmark>
+        <bookmark href="https://web.stanford.edu/class/cs107/guide/x86-64.html#registers" id="722">
+          <title>CS107 Guide to x86-64</title>
+        </bookmark>
+        <bookmark href="https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/pages/lecture-notes/" id="723">
+          <title>Lecture Notes | Database Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+        </bookmark>
+        <bookmark href="https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf" id="724">
+          <title>dbs-002.dvi - fntdb07-architecture.pdf</title>
+        </bookmark>
+        <bookmark href="https://docs.oracle.com/cd/B10500_01/server.920/a96524/toc.htm" id="725">
+          <title>Oracle9i Database Concepts -- Contents</title>
+        </bookmark>
+        <bookmark href="https://primer.picoctf.org/#_forensics" id="726">
+          <title>The CTF Primer</title>
+        </bookmark>
+        <bookmark href="https://en.wikibooks.org/wiki/Haskell" id="727">
+          <title>Haskell - Wikibooks, open books for an open world</title>
+        </bookmark>
+        <bookmark href="https://en.wikibooks.org/wiki/Shelf:Computer_science" id="728">
+          <title>Shelf:Computer science - Wikibooks, open books for an open world</title>
+        </bookmark>
+        <bookmark href="https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/pages/readings/lec4/" id="729">
+          <title>Lecture 4: Introduction to Database Internals | Database Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+        </bookmark>
+        <bookmark href="https://www.relationaldbdesign.com/performance-tuning/module4/create-reverse-index.php" id="730">
+          <title>Oracle Reverse Indexing (How to create?)</title>
+        </bookmark>
+        <bookmark href="https://en.wikibooks.org/wiki/C_Programming/Stream_IO#Other_Operations_on_Files" id="731">
+          <title>C Programming/Stream IO - Wikibooks, open books for an open world</title>
+        </bookmark>
+        <bookmark href="https://profile.iiita.ac.in/bibhas.ghoshal/COA_2021/lecture_slides/arm_inst.pdf" id="732">
+          <title>Microsoft PowerPoint - lec09_ARMisa.ppt [相容模式] - arm_inst.pdf</title>
+        </bookmark>
+        <bookmark href="https://iitd-plos.github.io/col718/ref/arm-instructionset.pdf" id="733">
+          <title>Untitled Document - arm-instructionset.pdf</title>
+        </bookmark>
+        <bookmark href="http://www.skyfree.org/linux/references/ELF_Format.pdf" id="734">
+          <title>ELF_Format.pdf</title>
+        </bookmark>
+        <bookmark href="http://www.skyfree.org/linux/" id="735">
+          <title>Index of /linux</title>
+        </bookmark>
+        <bookmark href="https://gifcities.org/?q=unix" id="736">
+          <title>GifCities</title>
+        </bookmark>
+        <bookmark href="https://s3.wp.wsu.edu/uploads/sites/3267/2022/06/BinaryAnalysis101.pdf" id="737">
+          <title>BinaryAnalysis101.pdf</title>
+        </bookmark>
+        <bookmark href="https://nsa-codebreaker.org/resources" id="738">
+          <title>NSA Codebreaker Challenge</title>
+        </bookmark>
+        <bookmark href="https://nyaa.land/" id="739">
+          <title>Browse :: Nyaa</title>
+        </bookmark>
+        <bookmark href="https://www.theodinproject.com/" id="740">
+          <title>Your Career in Web Development Starts Here | The Odin Project</title>
+        </bookmark>
+        <bookmark href="https://www.ragingrock.com//pages/tutorials.html" id="741">
+          <title>Workshops &amp; Tutorials | Maddie Stone</title>
+        </bookmark>
+        <bookmark href="https://www.ragingrock.com/AndroidAppRE/" id="742">
+          <title>Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!</title>
+        </bookmark>
+        <bookmark href="https://docs.oracle.com/cd/B10500_01/server.920/a96524/c11schem.htm#CNCPT811" id="743">
+          <title>Schema Objects</title>
+        </bookmark>
+        <bookmark href="https://cabbagesorter.neocities.org/lainchan_webring" id="744">
+          <title>cabbage sorter</title>
+        </bookmark>
+        <bookmark href="https://www.algorithm-archive.org/" id="745">
+          <title>Algorithm Archive · Arcane Algorithm Archive</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?client=firefox-b-d&amp;sa=X&amp;sca_esv=345267d81bec8f30&amp;sca_upv=1&amp;biw=1338&amp;bih=670&amp;sxsrf=ADLYWIKSKbBj03gqrfsdTobdrycsTII4jA:1716124136960&amp;si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L22KMD2_GKKuEv_aYKElHSmt1RqtcFFffNq4LbgikmSD4OMVUsvZV4BJztTTrUKgpb-89IwbfmhNZop-4qsV9lziFnlD8JvvS82sRImSv2rO7B1JOIOq5nJOOXCOlRQvOC1BAhLAuUI8Peh7TFX_SUaK3J_oJ62NVeWLNa3h1zjK3Vk1jbtthoZkG7t-6ifeZIXDKb_PcK0ua_RtIf9DQXICOBlYZya0rGw-_ffAa_mhLF-1qEIL09oblRAyFvlAudq1HhQRsveYa-dJUhKLSrGShi30-BAWnLiMCpwj-Du0nE8nwg%3D%3D&amp;q=Possession+1981&amp;lei=7flJZuOaGqycseMPmK6RgAI" id="746">
+          <title>Possession 1981</title>
+        </bookmark>
+        <bookmark href="https://real-statistics.com/other-mathematical-topics/integration/numerical-double-integration/" id="747">
+          <title>Numerical Double Integration | Real Statistics Using Excel</title>
+        </bookmark>
+        <bookmark href="https://wiki.gentoo.org/wiki/Handbook:Main_Page" id="748">
+          <title>Handbook:Main Page - Gentoo wiki</title>
+        </bookmark>
+        <bookmark href="https://www.cs.nott.ac.uk/~pszgxk/courses/g53ops/Memory%20Management/MM08-buddysystem.html" id="749">
+          <title>G53OPS : Memory Management</title>
+        </bookmark>
+        <bookmark href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/60a95dc31bbc56630c079dcfcc95ec53_MIT6_004s09_lec17.pdf" id="750">
+          <title>60a95dc31bbc56630c079dcfcc95ec53_MIT6_004s09_lec17.pdf</title>
+        </bookmark>
+        <bookmark href="https://javascript.info/" id="751">
+          <title>The Modern JavaScript Tutorial</title>
+        </bookmark>
+        <bookmark href="https://eloquentjavascript.net/" id="752">
+          <title>Eloquent JavaScript</title>
+        </bookmark>
+        <bookmark href="https://lainzine.org/about" id="753">
+          <title>i see you, you see me</title>
+        </bookmark>
+        <bookmark href="https://lainzine.org/archive" id="754">
+          <title>gone, but not forgotten</title>
+        </bookmark>
+        <bookmark href="https://github.com/FrontendMasters/api-design-node-v3/blob/master/src/resources/item/item.router.js" id="755">
+          <title>api-design-node-v3/src/resources/item/item.router.js at master · FrontendMasters/api-design-node-v3</title>
+        </bookmark>
+        <bookmark href="https://csv.js.org/parse/examples/async_iterator/" id="756">
+          <title>CSV Parse - Async iterator</title>
+        </bookmark>
+        <bookmark href="https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx" id="757">
+          <title>Calculus I</title>
+        </bookmark>
+        <bookmark href="https://lineararray.vercel.app/posts/open-source" id="758">
+          <title>How to get started with contributing to Open Source?</title>
+        </bookmark>
+        <bookmark href="https://craftinginterpreters.com/" id="759">
+          <title>Crafting Interpreters</title>
+        </bookmark>
+        <bookmark href="https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html" id="760">
+          <title>The ultimate guide to Haskell Strings · Hasufell&apos;s blog</title>
+        </bookmark>
+        <bookmark href="https://way-cooler.org/book/hello_world.html" id="761">
+          <title>Hello World -</title>
+        </bookmark>
+        <bookmark href="https://www.studocu.com/row/course/tribhuvan-vishwavidalaya/bachelors-of-computer-application/5169280?origin=document-viewer" id="762">
+          <title>Bachelors of computer application - bca 45028 - TU - Studocu</title>
+        </bookmark>
+        <bookmark href="https://studylib.net/viewer_next/web/study?file=%2F%2Fs2p.studylib.net%2Fstore%2Fdata%2F027348584.pdf%3Fk%3DEwAAAY-y8r_MAAACWCQAGgC9EdglAuBM__78o02Mb4HwaSKrM68LTjRDWNsO&amp;img=%2F%2Fs2.studylib.net%2Fstore%2Fdata%2F027348584_1-27308194008c2012cba9d1687fa6fa5a.png" id="763">
+          <title>concurrecn</title>
+        </bookmark>
+        <bookmark href="https://www.how2neovim.io/getting-started/what-is-neovim/" id="764">
+          <title>Introduction | how2neovim</title>
+        </bookmark>
+        <bookmark href="https://killercoda.com/" id="765">
+          <title>Killercoda Interactive Environments</title>
+        </bookmark>
+        <bookmark href="https://csperkins.org/" id="766">
+          <title>Colin Perkins</title>
+        </bookmark>
+        <bookmark href="https://book.systemsapproach.org/foundation/problem.html" id="767">
+          <title>Problem: Building a Network — Computer Networks: A Systems Approach Version 6.2-dev documentation</title>
+        </bookmark>
+        <bookmark href="https://web.mit.edu/6.005/www/fa15/classes/09-immutability/#mutation_undermines_an_iterator" id="768">
+          <title>Reading 9: Mutability &amp; Immutability</title>
+        </bookmark>
+        <bookmark href="https://well-typed.com/blog/2020/06/zurihac-2020-advanced-track-materials/" id="769">
+          <title>ZuriHac 2020 Advanced Track Materials - Well-Typed: The Haskell Consultants</title>
+        </bookmark>
+        <bookmark href="https://drive.google.com/file/d/1KNZTQDNHMXOWerij5GsVmoJIiA5umG3i/view" id="770">
+          <title>ZuriHac-2020-WT-AdvancedTrack-Haskell-and-Infosec.pdf - Google Drive</title>
+        </bookmark>
+        <bookmark href="https://makefiletutorial.com/" id="771">
+          <title>Makefile Tutorial By Example</title>
+        </bookmark>
+        <bookmark href="https://learnyouahaskell.com/for-a-few-monads-more#writer" id="772">
+          <title>For a Few Monads More - Learn You a Haskell for Great Good!</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Mathematical_logic" id="773">
+          <title>Mathematical logic - Wikipedia</title>
+        </bookmark>
+        <bookmark href="https://www.hypexr.org/index.php" id="774">
+          <title>www.hypexr.org</title>
+        </bookmark>
+        <bookmark href="https://x.com/7etsuo/status/1803561496628306352" id="775">
+          <title>Tetsuo – (e/acc) on X: &quot;These are the best books you can buy to learn x86-64 assembly. 🧵1/n God tier collection of papers videos exercises and lectures👇 https://t.co/fd6wDdQbyF&quot; / X</title>
+        </bookmark>
+        <bookmark href="https://norasandler.com/2017/11/29/Write-a-Compiler.html" id="776">
+          <title>Writing a C Compiler, Part 1</title>
+        </bookmark>
+        <bookmark href="https://briancallahan.net/blog/20210814.html" id="777">
+          <title>Brian Robert Callahan</title>
+        </bookmark>
+        <bookmark href="https://craftinginterpreters.com/contents.html" id="778">
+          <title>Table of Contents · Crafting Interpreters</title>
+        </bookmark>
+        <bookmark href="https://www.learnc.net/c-data-structures/c-linked-list/" id="779">
+          <title>C Linked List</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Persistent_data_structure" id="780">
+          <title>Persistent data structure - Wikipedia</title>
+        </bookmark>
+        <bookmark href="https://see.stanford.edu/Course/CS107" id="781">
+          <title>Stanford Engineering Everywhere | CS107 - Programming Paradigms</title>
+        </bookmark>
+        <bookmark href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/" id="782">
+          <title>RISC vs. CISC</title>
+        </bookmark>
+        <bookmark href="https://see.stanford.edu/Course" id="783">
+          <title>Stanford Engineering Everywhere | Courses</title>
+        </bookmark>
+        <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22" id="784">
+          <title>2015 Fall: 15-213 Introduction to Computer Systems : Panopto</title>
+        </bookmark>
+        <bookmark href="http://www.cs.cmu.edu/~213/" id="785">
+          <title>15-213/15-513 Introduction to Computer Systems</title>
+        </bookmark>
+        <bookmark href="https://beej.us/guide/bgc/html/split/index.html" id="786">
+          <title>Beej&apos;s Guide to C Programming</title>
+        </bookmark>
+        <bookmark href="https://viewsourcecode.org/snaptoken/kilo/" id="787">
+          <title>Build Your Own Text Editor</title>
+        </bookmark>
+        <bookmark href="https://austinhenley.com/blog/challengingprojects.html" id="788">
+          <title>Challenging projects every programmer should try - Austin Z. Henley</title>
+        </bookmark>
+        <bookmark href="http://www.cs.cmu.edu/afs/cs/academic/class/15213-m17/www/schedule.html" id="789">
+          <title>15-213/18-218: Introduction to Computer Systems / Schedule Summer 2017</title>
+        </bookmark>
+        <bookmark href="http://csapp.cs.cmu.edu/3e/docs/dsa.pdf" id="790">
+          <title>allocsrv.dvi - dsa.pdf</title>
+        </bookmark>
+        <bookmark href="https://cs.stanford.edu/people/eroberts/courses/soco/" id="791">
+          <title>Sophomore College</title>
+        </bookmark>
+        <bookmark href="https://cs.stanford.edu/people/eroberts/index.html" id="792">
+          <title>Eric Roberts: Home Page</title>
+        </bookmark>
+        <bookmark href="https://www.raylib.com/" id="793">
+          <title>raylib | A simple and easy-to-use library to enjoy videogames programming</title>
+        </bookmark>
+        <bookmark href="https://austinhenley.com/blog/teenytinycompiler1.html" id="794">
+          <title>Let&apos;s make a Teeny Tiny compiler, part 1 - Austin Z. Henley</title>
+        </bookmark>
+        <bookmark href="https://osblog.stephenmarz.com/index.html" id="795">
+          <title>Stephen Marz: Blog</title>
+        </bookmark>
+        <bookmark href="https://aymanbagabas.com/blog/2018/09/17/chip-8-emulator.html" id="796">
+          <title>Writing a Chip-8 emulator · Ayman Bagabas</title>
+        </bookmark>
+        <bookmark href="https://invisible-island.net/ncurses/ncurses-intro.html" id="797">
+          <title>Writing Programs with NCURSES</title>
+        </bookmark>
+        <bookmark href="https://www.oreilly.com/openbook/make3/book/" id="798">
+          <title>https://www.oreilly.com/openbook/make3/book/</title>
+        </bookmark>
+        <bookmark href="https://www.c-for-dummies.com/ncurses/" id="799">
+          <title>NCurses Stuff</title>
+        </bookmark>
+        <bookmark href="https://ubuntu.com/server/docs/wireguard-vpn-peer-to-site" id="800">
+          <title>WireGuard VPN peer-to-site | Ubuntu</title>
+        </bookmark>
+        <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22&amp;sortColumn=0&amp;sortAscending=true" id="801">
+          <title>Fall 2023: 10-301/601 Introduction to Machine Learning : Panopto</title>
+        </bookmark>
+        <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22ba4ffc7c-f838-4722-bdae-05a65335f499%22" id="802">
+          <title>2012 Summer 08-723 Mobile Application Development for iOS and Andriod : Panopto</title>
+        </bookmark>
+        <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%2207756bb0-b872-4a4a-95b1-b77ad206dab3%22" id="803">
+          <title>2013 Fall: 15-819 Advanced Topics in Programming Languages : Panopto</title>
+        </bookmark>
+        <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22dec5d23e-fec9-4f51-b532-f7adcf31276c%22" id="804">
+          <title>2013 Spring: 15-418: Parallel Computer Architecture and Programming : Panopto</title>
+        </bookmark>
+        <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22" id="805">
+          <title>2015 Spring: 15-418 Parallel Computer Architecture and Programming : Panopto</title>
+        </bookmark>
+        <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22d8865cf8-1bce-4c36-a83b-ab7a012bf957%22" id="806">
+          <title>Panopto Training Videos : Panopto</title>
+        </bookmark>
+        <bookmark href="https://plackyhacker.com/posts/64_bit_shellcode_1.aspx" id="807">
+          <title>Home of the plackyhacker</title>
+        </bookmark>
+        <bookmark href="https://www.barbarianmeetscoding.com/notes/neovim-lazyvim/" id="808">
+          <title>LazyVim - A beautiful neovim config for the lazy | Barbarian Meets Coding</title>
+        </bookmark>
+        <bookmark href="https://math.hws.edu/graphicsbook/" id="809">
+          <title>Introduction to Computer Graphics -- Title Page</title>
+        </bookmark>
+        <bookmark href="https://www.timeanddate.com/calendar/?year=2024&amp;country=187" id="810">
+          <title>Year 2024 Calendar – Nepal</title>
+        </bookmark>
+        <bookmark href="https://web.archive.org/web/20210423030302/https://ntuck-neu.site/2020-09/cs3650/" id="811">
+          <title>CS3650 - Computer Systems · ntuck@neu</title>
+        </bookmark>
+      </folder>
+      <folder id="588">
+        <title>Tutorials</title>
+        <bookmark href="https://training.linuxfoundation.org/resources/?_sft_content_type=free-course" id="812">
+          <title>Resources - Linux Foundation - Training</title>
+        </bookmark>
+        <bookmark href="https://labs.iximiuz.com/" id="813">
+          <title>iximiuz Labs - Indie Learning Platform to Master Server Side Craft</title>
+        </bookmark>
+      </folder>
+      <folder id="589">
+        <title>Programming Resources</title>
+        <bookmark href="https://teachyourselfcs.com/" id="814">
+          <title>Teach Yourself Computer Science</title>
+        </bookmark>
+        <bookmark href="https://github.com/ossu/computer-science" id="815">
+          <title>ossu/computer-science: 🎓 Path to a free self-taught education in Computer Science!</title>
+        </bookmark>
+        <bookmark href="https://docs.vulkan.org/tutorial/latest/03_Drawing_a_triangle/00_Setup/01_Instance.html" id="816">
+          <title>Instance :: Vulkan Documentation Project</title>
+        </bookmark>
+        <bookmark href="https://letslearntogether.neocities.org/compute" id="817">
+          <title>Let&apos;s Learn Together - Computing</title>
+        </bookmark>
+        <bookmark href="https://docs.tinygrad.org/quickstart/" id="818">
+          <title>Quickstart - tinygrad docs</title>
+        </bookmark>
+      </folder>
+      <folder id="590">
+        <title>Study Materials</title>
+        <bookmark href="https://www.computer-networking.info/2nd/html/index.html" id="819">
+          <title>Computer Networking : Principles, Protocols and Practice, 2nd edition — Computer Networking : Principles, Protocols and Practice</title>
+        </bookmark>
+        <bookmark href="https://leanpub.com/haskell-cookbook/read" id="820">
+          <title>Read Haskell Tutorial and Cookbook | Leanpub</title>
+        </bookmark>
+        <bookmark href="https://haskell.mooc.fi/" id="821">
+          <title>Haskell MOOC</title>
+        </bookmark>
+        <bookmark href="https://www.cg.tuwien.ac.at/" id="822">
+          <title>Research Unit of Computer Graphics | TU Wien – Research Unit of Computer Graphics</title>
+        </bookmark>
+      </folder>
+      <folder id="591">
+        <title>ExtraThings</title>
+        <bookmark href="https://www.jstor.org/" id="823">
+          <title>JSTOR Home</title>
+        </bookmark>
+        <bookmark href="https://gist.github.com/vinhjaxt/a774ac87b0313a34f4c445048d8e13cf" id="824">
+          <title>Windows server officials ISO file</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://c3rb3ru5d3d53c.github.io/posts/" id="592">
+        <title>All Posts - Malware Hell</title>
+      </bookmark>
+      <bookmark href="https://pikchr.org/home/uv/gpic.pdf" id="593">
+        <title>gpic.pdf</title>
+      </bookmark>
+      <bookmark href="https://aboutideasnow.com/?filter=ideas" id="594">
+        <title>About Ideas Now | Search 1000s of personal sites</title>
+      </bookmark>
+      <bookmark href="https://www.perplexity.ai/" id="595">
+        <title>Perplexity</title>
+      </bookmark>
+      <bookmark href="https://arxiv.org/pdf/2407.21783" id="596">
+        <title>2407.21783v2.pdf</title>
+      </bookmark>
+      <bookmark href="https://www.schaffter.ca/mom/mom-04.html#paperback" id="597">
+        <title>Mom - Macros for GNU troff: Documentation</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/theevilwithin/comments/dtbxlo/evil_within_damage_mechanics/" id="598">
+        <title>Evil Within Damage Mechanics : r/theevilwithin</title>
+      </bookmark>
+      <bookmark href="https://freedns.afraid.org/zc.php?from=L3N1YmRvbWFpbi8=" id="599">
+        <title>FreeDNS - Free subdomain AND domain hosting!</title>
+      </bookmark>
+      <bookmark href="https://strawberryreverie.neocities.org/media/music/favoritealbums" id="600">
+        <title>VIRTUAL DREAMLAND</title>
+      </bookmark>
+      <bookmark href="http://www.gamezero.com/team-0/articles/math_magic/micro/" id="601">
+        <title>The Math Behind the Magic</title>
+      </bookmark>
+      <bookmark href="https://firewalld.org/documentation/concepts.html" id="602">
+        <title>Documentation - Concepts | firewalld</title>
+      </bookmark>
+      <bookmark href="https://beej.us/guide/bgnet/" id="603">
+        <title>Beej&apos;s Guide to Network Programming</title>
+      </bookmark>
+      <bookmark href="https://collegenote.net/courses/network-programming-148" id="604">
+        <title>Network Programming - Syllabus</title>
+      </bookmark>
+      <bookmark href="https://p403n1x87.github.io/getting-started-with-x86-64-assembly-on-linux.html" id="605">
+        <title>The Hub of Heliopolis - Getting Started with x86-64 Assembly on Linux</title>
+      </bookmark>
+      <bookmark href="https://cburch.com/csbsju/cs/350/docs/nasm/nasmdoc0.html" id="606">
+        <title>NASM Manual</title>
+      </bookmark>
+      <bookmark href="https://www.manning.com/corporate-splash" id="607">
+        <title>Free content compliments of our partners</title>
+      </bookmark>
+      <bookmark href="https://web.mit.edu/gnu/doc/html/rlman_2.html" id="608">
+        <title>GNU Readline Library - Programming with GNU Readline</title>
+      </bookmark>
+      <bookmark href="https://web.mit.edu/gnu/doc/html/rlman_toc.html#SEC1" id="609">
+        <title>GNU Readline Library - Table of Contents</title>
+      </bookmark>
+      <bookmark href="https://lwn.net/" id="610">
+        <title>Welcome to LWN.net [LWN.net]</title>
+      </bookmark>
+      <bookmark href="https://neocities.org/" id="611">
+        <title>Neocities: Create your own free website!</title>
+      </bookmark>
+      <bookmark href="https://github.com/MalbianLinux/MalbianLinux" id="612">
+        <title>MalbianLinux/MalbianLinux</title>
+      </bookmark>
+      <bookmark href="https://prolug.org/" id="613">
+        <title>Home - ProLUG</title>
+      </bookmark>
+      <bookmark href="https://www.roppers.org/collections" id="614">
+        <title>Courses</title>
+      </bookmark>
+      <bookmark href="https://public.cyber.mil/stigs/downloads/" id="615">
+        <title>STIGs Document Library – DoD Cyber Exchange</title>
+      </bookmark>
+      <bookmark href="https://coderefinery.org/" id="616">
+        <title>CodeRefinery</title>
+      </bookmark>
+      <bookmark href="https://raw.githubusercontent.com/bobbyiliev/introduction-to-bash-scripting/main/ebook/en/export/introduction-to-bash-scripting-light.pdf" id="617">
+        <title>Introduction to Bash Scripting - introduction-to-bash-scripting-light.pdf</title>
+      </bookmark>
+      <bookmark href="https://www.kernel.org/doc/html/v4.16/process/howto.html" id="618">
+        <title>HOWTO do Linux kernel development — The Linux Kernel documentation</title>
+      </bookmark>
+      <bookmark href="https://www.kernel.org/" id="619">
+        <title>The Linux Kernel Archives</title>
+      </bookmark>
+      <bookmark href="https://www.linux.com/training-tutorials/" id="620">
+        <title>Training and Tutorials - Linux.com</title>
+      </bookmark>
+      <bookmark href="https://kernelnewbies.org/" id="621">
+        <title>Linux_Kernel_Newbies - Linux Kernel Newbies</title>
+      </bookmark>
+      <bookmark href="https://summerofcode.withgoogle.com/programs/2025/organizations" id="622">
+        <title>Program Organizations | Google Summer of Code</title>
+      </bookmark>
+      <bookmark href="https://elixir.bootlin.com/linux/v6.13.7/source/README" id="623">
+        <title>README - Linux source code v6.13.7 - Bootlin Elixir Cross Referencer</title>
+      </bookmark>
+      <bookmark href="https://linuxreviews.org/LinuxReviews" id="624">
+        <title>LinuxReviews</title>
+      </bookmark>
+      <bookmark href="https://linux-mm.org/LinuxMM" id="625">
+        <title>LinuxMM - linux-mm.org Wiki</title>
+      </bookmark>
+      <bookmark href="https://lwn.net/Kernel/LDD3/" id="626">
+        <title>Linux Device Drivers, Third Edition [LWN.net]</title>
+      </bookmark>
+      <bookmark href="https://www.cprogramming.com/" id="627">
+        <title>Learn C and C++ Programming - Cprogramming.com</title>
+      </bookmark>
+      <bookmark href="https://fmhy.net/edupiracyguide" id="628">
+        <title>Educational • freemediaheckyeah</title>
+      </bookmark>
+      <bookmark href="https://norvig.com/21-days.html" id="629">
+        <title>Teach Yourself Programming in Ten Years</title>
+      </bookmark>
+      <bookmark href="https://teaching.well-typed.com/intro/" id="630">
+        <title>Introduction to Haskell - Well-Typed: The Haskell Consultants</title>
+      </bookmark>
+      <bookmark href="https://developers.redhat.com/articles/2024/08/07/what-gpu-programming#" id="631">
+        <title>What is GPU programming? | Red Hat Developer</title>
+      </bookmark>
+      <bookmark href="https://www.gnu.org/software/c-intro-and-ref/manual/html_node/index.html#SEC_Contents" id="632">
+        <title>Top (GNU C Language Manual)</title>
+      </bookmark>
+      <bookmark href="https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/" id="633">
+        <title>Operating System Engineering | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+      </bookmark>
+      <bookmark href="https://pdos.lcs.mit.edu/6.828/2024/schedule.html" id="634">
+        <title>6.1810 / Fall 2024</title>
+      </bookmark>
+      <bookmark href="https://gfxcourses.stanford.edu/cs149/fall24" id="635">
+        <title>https://gfxcourses.stanford.edu/cs149/fall24</title>
+      </bookmark>
+      <bookmark href="https://web.stanford.edu/class/cs111/" id="636">
+        <title>CS111 Operating Systems Principles</title>
+      </bookmark>
+      <bookmark href="https://wiki.osdev.org/Expanded_Main_Page" id="637">
+        <title>Expanded Main Page - OSDev Wiki</title>
+      </bookmark>
+      <bookmark href="https://github.com/sysprog21/lkmpg" id="638">
+        <title>sysprog21/lkmpg: The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)</title>
+      </bookmark>
+      <bookmark href="https://www.akkadia.org/drepper/cpumemory.pdf" id="639">
+        <title>What Every Programmer Should Know About Memory - cpumemory.pdf</title>
+      </bookmark>
+      <bookmark href="https://docs.oracle.com/javase/tutorial/index.html" id="640">
+        <title>The Java™ Tutorials</title>
+      </bookmark>
+      <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%222be55024-d2d3-4a3c-ac9c-9b348ddce5c4%22" id="641">
+        <title>2015 Summer: 15-213 Introduction to Computer Systems : Panopto</title>
+      </bookmark>
+      <bookmark href="https://pubs.opengroup.org/onlinepubs/9799919799/" id="642">
+        <title>The Open Group Base Specifications Issue 8</title>
+      </bookmark>
+      <bookmark href="https://marabos.nl/atomics/" id="643">
+        <title>Rust Atomics and Locks by Mara Bos</title>
+      </bookmark>
+      <bookmark href="https://rust-for-rustaceans.com/" id="644">
+        <title>Rust for Rustaceans by Jon Gjengset</title>
+      </bookmark>
+      <bookmark href="https://docs.kernel.org/index.html" id="645">
+        <title>The Linux Kernel documentation — The Linux Kernel documentation</title>
+      </bookmark>
+      <bookmark href="https://accuconference.org/" id="646">
+        <title>ACCU 2025</title>
+      </bookmark>
+      <bookmark href="https://learningnetwork.cisco.com/s/ccna" id="647">
+        <title>CCNA</title>
+      </bookmark>
+      <bookmark href="https://dpeuniversity.gradle.com/app" id="648">
+        <title>DPE University | Start your journey to Developer Productivity Engineering mastery</title>
+      </bookmark>
+      <bookmark href="http://xahlee.info/comp/comp_index.html" id="649">
+        <title>Hacker Cult</title>
+      </bookmark>
+      <bookmark href="https://thestrangeloop.com/index.html" id="650">
+        <title>Home - Strange Loop</title>
+      </bookmark>
+      <bookmark href="https://devdocs.io/" id="651">
+        <title>DevDocs API Documentation</title>
+      </bookmark>
+      <bookmark href="https://play.picoctf.org/login" id="652">
+        <title>picoCTF - Login</title>
+      </bookmark>
+      <bookmark href="https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf" id="653">
+        <title>TCP/IP Tutorial and Technical Overview - gg243376.pdf</title>
+      </bookmark>
+      <bookmark href="https://littleosbook.github.io/#first-steps" id="654">
+        <title>The little book about OS development</title>
+      </bookmark>
+      <bookmark href="https://haskell.mooc.fi/part1#monoids" id="655">
+        <title>Haskell MOOC</title>
+      </bookmark>
+      <bookmark href="file:///home/simpleshun/Downloads/lkmpg.pdf" id="656">
+        <title>lkmpg.pdf</title>
+      </bookmark>
+      <bookmark href="https://www.cs.cmu.edu/~213/schedule.html" id="657">
+        <title>15-213/15-513 Introduction to Computer Systems: Schedule</title>
+      </bookmark>
+      <bookmark href="https://gfxcourses.stanford.edu/cs149/fall23/" id="658">
+        <title>https://gfxcourses.stanford.edu/cs149/fall23/</title>
+      </bookmark>
+      <bookmark href="https://www.linusakesson.net/" id="659">
+        <title>linusakesson.net</title>
+      </bookmark>
+      <bookmark href="https://0xinfection.github.io/reversing/pages/part-14-flags.html" id="660">
+        <title>Part 14: Flags · Reverse Engineering</title>
+      </bookmark>
+      <bookmark href="https://beej.us/guide/bgnet/html/split-wide/system-calls-or-bust.html" id="661">
+        <title>Beej&apos;s Guide to Network Programming</title>
+      </bookmark>
+      <bookmark href="https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/how_does_opencl_work.md" id="662">
+        <title>OpenCL-Guide/chapters/how_does_opencl_work.md at main · KhronosGroup/OpenCL-Guide</title>
+      </bookmark>
+      <bookmark href="https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/" id="663">
+        <title>Operating System Engineering | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+      </bookmark>
+      <bookmark href="https://pdos.csail.mit.edu/6.828/2024/tools.html" id="664">
+        <title>6.1810 / Fall 2024</title>
+      </bookmark>
+      <bookmark href="https://pdos.lcs.mit.edu/6.828/2024/xv6/book-riscv-rev4.pdf" id="665">
+        <title>xv6: a simple, Unix-like teaching operating system - book-riscv-rev4.pdf</title>
+      </bookmark>
+      <bookmark href="https://craftinginterpreters.com/representing-code.html" id="666">
+        <title>Representing Code · Crafting Interpreters</title>
+      </bookmark>
+      <bookmark href="https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_linux.md" id="667">
+        <title>OpenCL-Guide/chapters/getting_started_linux.md at main · KhronosGroup/OpenCL-Guide</title>
+      </bookmark>
+      <bookmark href="https://datatracker.ietf.org/doc/html/rfc2229#autoid-11" id="668">
+        <title>RFC 2229 - A Dictionary Server Protocol</title>
+      </bookmark>
+      <bookmark href="https://gfxcourses.stanford.edu/cs149/fall24/" id="669">
+        <title>https://gfxcourses.stanford.edu/cs149/fall24/</title>
+      </bookmark>
+      <bookmark href="https://marabos.nl/atomics/os-primitives.html" id="670">
+        <title>Rust Atomics and Locks — Chapter 8. Operating System Primitives</title>
+      </bookmark>
+      <bookmark href="https://herecomesthemoon.net/2025/04/pipelining/" id="671">
+        <title>Pipelining might be my favorite programming language feature | MOND←TECH MAGAZINE</title>
+      </bookmark>
+      <bookmark href="https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/" id="672">
+        <title>Mindset shifts for Functional Programming (with Clojure)</title>
+      </bookmark>
+      <bookmark href="https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/history.html" id="673">
+        <title>History of Unix, Linux, and Open Source / Free Software</title>
+      </bookmark>
+      <bookmark href="https://docs.oracle.com/en/java/javase/24/index.html" id="674">
+        <title>JDK 24 Documentation - Home</title>
+      </bookmark>
+      <bookmark href="https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/nio/package-summary.html" id="675">
+        <title>java.nio (Java SE 24 &amp; JDK 24)</title>
+      </bookmark>
+      <bookmark href="https://www.cct.lsu.edu/~sbrandt/csc1351/" id="676">
+        <title>Steven R. Brandt</title>
+      </bookmark>
+      <bookmark href="https://www.vogella.com/" id="677">
+        <title>Eclipse, Android and Java training and support</title>
+      </bookmark>
+      <bookmark href="https://www.r-5.org/files/books/computers/languages/java/style/Venkat_Subramaniam-Functional_Programming_in_Java-EN.pdf" id="678">
+        <title>Functional Programming in Java - Venkat_Subramaniam-Functional_Programming_in_Java-EN.pdf</title>
+      </bookmark>
+      <bookmark href="file:///usr/share/javadoc/java-24-openjdk/api/index.html" id="679">
+        <title>Overview (Java SE 24 &amp; JDK 24)</title>
+      </bookmark>
+      <bookmark href="https://blog.ezyang.com/2011/05/unraveling-the-mystery-of-the-io-monad/" id="680">
+        <title>Unraveling the mystery of the IO monad : ezyang’s blog</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/6647852/haskell-actual-io-monad-implementation-in-different-language" id="681">
+        <title>Haskell: actual IO monad implementation, in different language? - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://byorgey.wordpress.com/catsters-guide-2/#introduction" id="682">
+        <title>Catsters guide | blog :: Brent -&gt; [String]</title>
+      </bookmark>
+      <bookmark href="https://www.server-world.info/en/note?os=Fedora_42&amp;p=initial_conf&amp;f=3" id="683">
+        <title>Fedora 42 : Initial Settings : Networking : Server World</title>
+      </bookmark>
+      <bookmark href="https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html" id="684">
+        <title>Welcome to the SICP Web Site</title>
+      </bookmark>
+      <bookmark href="https://sacred-texts.com/index.htm" id="685">
+        <title>ISTA - Internet Sacred Text Archive Home</title>
+      </bookmark>
+      <bookmark href="https://bartoszmilewski.com/" id="686">
+        <title>  Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
+      </bookmark>
+      <bookmark href="https://frontendmasters.com/my-account/settings/" id="687">
+        <title>My Account | Settings | Frontend Masters</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.reddit.com/r/learnfrench/comments/xw1f0m/french_learning_source_that_is_actually_free/" id="515">
+      <title>French learning source that is actually free? : r/learnfrench</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/linux/comments/1ltr6p4/open_tv_the_opensource_iptv_app_for_linux_is_now/" id="516">
+      <title>Open TV, the open-source IPTV app for linux, is now availaible on iOS : r/linux</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://vonheikemen.github.io/learn-nvim/101/installing-plugins.html" id="246">
+    <title>Installing plugins | Learn nvim</title>
+  </bookmark>
+  <bookmark href="https://github.com/MariaSolOs/dotfiles/blob/main/.config/nvim/lsp/rust_analyzer.lua" id="247">
+    <title>maria solos</title>
+  </bookmark>
+  <bookmark href="https://www.stephendiehl.com/posts/essential_haskell/" id="248">
+    <title>A Haskell Reading List</title>
+  </bookmark>
+  <bookmark href="https://www.vex.net/~trebla/haskell/index.xhtml" id="249">
+    <title>Haskell Notes And Examples - Albert Y. C. Lai</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Other Bookmarks</title>
+  <folder id="50">
+    <title>GOOD</title>
+    <bookmark href="https://ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_1_3" id="250">
+      <title>Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)</title>
+    </bookmark>
+    <bookmark href="https://popovicu.com/posts/how-files-in-linux-work/" id="251">
+      <title>How files in Linux work</title>
+    </bookmark>
+    <bookmark href="https://www.d.umn.edu/~gshute/softeng/principles.html" id="252">
+      <title>Principles of Software Engineering</title>
+    </bookmark>
+    <bookmark href="https://linuxhandbook.com/" id="253">
+      <title>Linux Handbook</title>
+    </bookmark>
+    <bookmark href="https://haskellbook.com/" id="254">
+      <title>Haskell Programming - Home</title>
+    </bookmark>
+    <bookmark href="https://www.seas.upenn.edu/~cis1940/spring13/lectures.html" id="255">
+      <title>Lecture notes and assignments</title>
+    </bookmark>
+    <bookmark href="http://www.scs.stanford.edu/14sp-cs240h/" id="256">
+      <title>CS240h: Functional Systems in Haskell</title>
+    </bookmark>
+    <bookmark href="https://learnyouahaskell.com/chapters" id="257">
+      <title>Chapters - Learn You a Haskell for Great Good!</title>
+    </bookmark>
+    <bookmark href="https://learn-haskell.blog/" id="258">
+      <title>About this book - Learn Haskell by building a blog generator</title>
+    </bookmark>
+    <bookmark href="https://web.cs.dal.ca/~nzeh/Teaching/3137/haskell/" id="259">
+      <title>Introduction - CSCI 3137: Haskell Programming</title>
+    </bookmark>
+    <bookmark href="https://book.realworldhaskell.org/read/" id="260">
+      <title>Real World Haskell</title>
+    </bookmark>
+    <bookmark href="https://blogs.oracle.com/javamagazine/" id="261">
+      <title>Oracle Blogs | Java Magazine</title>
+    </bookmark>
+    <bookmark href="https://live.bilibili.com/p/eden/area-tags?parentAreaId=3&amp;areaId=35" id="262">
+      <title>hokLiveBiliBili</title>
+    </bookmark>
+    <bookmark href="https://learnyouahaskell.com/syntax-in-functions" id="263">
+      <title>Syntax in Functions - Learn You a Haskell for Great Good!</title>
+    </bookmark>
+    <bookmark href="https://devsenv.com/tutorials/map" id="264">
+      <title>Map Data Structure with Practical Examples | DevsEnv</title>
+    </bookmark>
+    <bookmark href="https://www.oreilly.com/library/view/c-40-in/9781449379629/ch01.html" id="265">
+      <title>1. Introducing C# and the .NET Framework - C# 4.0 in a Nutshell, 4th Edition [Book]</title>
+    </bookmark>
+    <bookmark href="http://cht.sh/" id="266">
+      <title>cheat.sh/:firstpage</title>
+    </bookmark>
+    <bookmark href="https://www.schaffter.ca/mom/momdoc/toc.html" id="267">
+      <title>MOM groff</title>
+    </bookmark>
+    <bookmark href="https://www.sqlshack.com/learn-sql-sql-script/" id="268">
+      <title>Learn SQL: SQL Scripts</title>
+    </bookmark>
+    <bookmark href="https://www.mariadbtutorial.com/mariadb-basics/mariadb-subqueries/" id="269">
+      <title>MariaDB Subqueries</title>
+    </bookmark>
+    <bookmark href="https://sqlbolt.com/lesson/inserting_rows" id="270">
+      <title>SQLBolt - Learn SQL - SQL Lesson 13: Inserting rows</title>
+    </bookmark>
+    <bookmark href="https://www.linusakesson.net/programming/tty/" id="271">
+      <title>The TTY demystified</title>
+    </bookmark>
+    <bookmark href="http://0x0.st/" id="272">
+      <title>http://0x0.st/</title>
+    </bookmark>
+    <bookmark href="http://www.kohala.com/start/" id="273">
+      <title>W. Richard Stevens&apos; Home Page</title>
+    </bookmark>
+    <bookmark href="https://rust-book.cs.brown.edu/" id="274">
+      <title>Experiment Introduction - The Rust Programming Language</title>
+    </bookmark>
+    <bookmark href="https://rust-book.cs.brown.edu/ch01-03-hello-cargo.html" id="275">
+      <title>Hello, Cargo! - The Rust Programming Language</title>
+    </bookmark>
+    <bookmark href="https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/index.html" id="276">
+      <title>Chapter 0   Preface — Computer Systems Fundamentals</title>
+    </bookmark>
+    <bookmark href="https://www.usna.edu/Users/cs/wcbrown/courses/IC221/classes/L09/Class.html" id="277">
+      <title>Class 9: The Unix Filesystem</title>
+    </bookmark>
+    <bookmark href="http://www.catb.org/~esr/faqs/hacker-howto.html" id="278">
+      <title>How To Become A Hacker</title>
+    </bookmark>
+    <bookmark href="http://www.catb.org/~esr/faqs/hacking-howto.html" id="279">
+      <title>How To Learn Hacking</title>
+    </bookmark>
+    <bookmark href="http://cslibrary.stanford.edu/" id="280">
+      <title>Stanford CS Ed Library</title>
+    </bookmark>
+    <bookmark href="https://web.cs.wpi.edu/~cs3013/c07/lectures/Section08-Memory_Management.pdf" id="281">
+      <title>Section08-Memory_Management - Section08-Memory_Management.pdf</title>
+    </bookmark>
+    <bookmark href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html#Preface" id="282">
+      <title>The GNU C Reference Manual</title>
+    </bookmark>
+    <bookmark href="https://bottomupcs.com/index.html" id="283">
+      <title>Computer Science from the Bottom Up</title>
+    </bookmark>
+    <bookmark href="https://web.stanford.edu/class/archive/cs/cs107/cs107.1246/resources/x86-64-reference.pdf" id="284">
+      <title>x86-64-reference.pdf</title>
+    </bookmark>
+    <bookmark href="https://web.stanford.edu/class/cs107/guide/x86-64.html#registers" id="285">
+      <title>CS107 Guide to x86-64</title>
+    </bookmark>
+    <bookmark href="https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/pages/lecture-notes/" id="286">
+      <title>Lecture Notes | Database Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+    </bookmark>
+    <bookmark href="https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf" id="287">
+      <title>dbs-002.dvi - fntdb07-architecture.pdf</title>
+    </bookmark>
+    <bookmark href="https://docs.oracle.com/cd/B10500_01/server.920/a96524/toc.htm" id="288">
+      <title>Oracle9i Database Concepts -- Contents</title>
+    </bookmark>
+    <bookmark href="https://primer.picoctf.org/#_forensics" id="289">
+      <title>The CTF Primer</title>
+    </bookmark>
+    <bookmark href="https://en.wikibooks.org/wiki/Haskell" id="290">
+      <title>Haskell - Wikibooks, open books for an open world</title>
+    </bookmark>
+    <bookmark href="https://en.wikibooks.org/wiki/Shelf:Computer_science" id="291">
+      <title>Shelf:Computer science - Wikibooks, open books for an open world</title>
+    </bookmark>
+    <bookmark href="https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/pages/readings/lec4/" id="292">
+      <title>Lecture 4: Introduction to Database Internals | Database Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+    </bookmark>
+    <bookmark href="https://www.relationaldbdesign.com/performance-tuning/module4/create-reverse-index.php" id="293">
+      <title>Oracle Reverse Indexing (How to create?)</title>
+    </bookmark>
+    <bookmark href="https://en.wikibooks.org/wiki/C_Programming/Stream_IO#Other_Operations_on_Files" id="294">
+      <title>C Programming/Stream IO - Wikibooks, open books for an open world</title>
+    </bookmark>
+    <bookmark href="https://profile.iiita.ac.in/bibhas.ghoshal/COA_2021/lecture_slides/arm_inst.pdf" id="295">
+      <title>Microsoft PowerPoint - lec09_ARMisa.ppt [相容模式] - arm_inst.pdf</title>
+    </bookmark>
+    <bookmark href="https://iitd-plos.github.io/col718/ref/arm-instructionset.pdf" id="296">
+      <title>Untitled Document - arm-instructionset.pdf</title>
+    </bookmark>
+    <bookmark href="http://www.skyfree.org/linux/references/ELF_Format.pdf" id="297">
+      <title>ELF_Format.pdf</title>
+    </bookmark>
+    <bookmark href="http://www.skyfree.org/linux/" id="298">
+      <title>Index of /linux</title>
+    </bookmark>
+    <bookmark href="https://gifcities.org/?q=unix" id="299">
+      <title>GifCities</title>
+    </bookmark>
+    <bookmark href="https://s3.wp.wsu.edu/uploads/sites/3267/2022/06/BinaryAnalysis101.pdf" id="300">
+      <title>BinaryAnalysis101.pdf</title>
+    </bookmark>
+    <bookmark href="https://nsa-codebreaker.org/resources" id="301">
+      <title>NSA Codebreaker Challenge</title>
+    </bookmark>
+    <bookmark href="https://nyaa.land/" id="302">
+      <title>Browse :: Nyaa</title>
+    </bookmark>
+    <bookmark href="https://www.theodinproject.com/" id="303">
+      <title>Your Career in Web Development Starts Here | The Odin Project</title>
+    </bookmark>
+    <bookmark href="https://www.ragingrock.com//pages/tutorials.html" id="304">
+      <title>Workshops &amp; Tutorials | Maddie Stone</title>
+    </bookmark>
+    <bookmark href="https://www.ragingrock.com/AndroidAppRE/" id="305">
+      <title>Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!</title>
+    </bookmark>
+    <bookmark href="https://docs.oracle.com/cd/B10500_01/server.920/a96524/c11schem.htm#CNCPT811" id="306">
+      <title>Schema Objects</title>
+    </bookmark>
+    <bookmark href="https://cabbagesorter.neocities.org/lainchan_webring" id="307">
+      <title>cabbage sorter</title>
+    </bookmark>
+    <bookmark href="https://www.algorithm-archive.org/" id="308">
+      <title>Algorithm Archive · Arcane Algorithm Archive</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?client=firefox-b-d&amp;sa=X&amp;sca_esv=345267d81bec8f30&amp;sca_upv=1&amp;biw=1338&amp;bih=670&amp;sxsrf=ADLYWIKSKbBj03gqrfsdTobdrycsTII4jA:1716124136960&amp;si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L22KMD2_GKKuEv_aYKElHSmt1RqtcFFffNq4LbgikmSD4OMVUsvZV4BJztTTrUKgpb-89IwbfmhNZop-4qsV9lziFnlD8JvvS82sRImSv2rO7B1JOIOq5nJOOXCOlRQvOC1BAhLAuUI8Peh7TFX_SUaK3J_oJ62NVeWLNa3h1zjK3Vk1jbtthoZkG7t-6ifeZIXDKb_PcK0ua_RtIf9DQXICOBlYZya0rGw-_ffAa_mhLF-1qEIL09oblRAyFvlAudq1HhQRsveYa-dJUhKLSrGShi30-BAWnLiMCpwj-Du0nE8nwg%3D%3D&amp;q=Possession+1981&amp;lei=7flJZuOaGqycseMPmK6RgAI" id="309">
+      <title>Possession 1981</title>
+    </bookmark>
+    <bookmark href="https://real-statistics.com/other-mathematical-topics/integration/numerical-double-integration/" id="310">
+      <title>Numerical Double Integration | Real Statistics Using Excel</title>
+    </bookmark>
+    <bookmark href="https://wiki.gentoo.org/wiki/Handbook:Main_Page" id="311">
+      <title>Handbook:Main Page - Gentoo wiki</title>
+    </bookmark>
+    <bookmark href="https://www.cs.nott.ac.uk/~pszgxk/courses/g53ops/Memory%20Management/MM08-buddysystem.html" id="312">
+      <title>G53OPS : Memory Management</title>
+    </bookmark>
+    <bookmark href="https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/60a95dc31bbc56630c079dcfcc95ec53_MIT6_004s09_lec17.pdf" id="313">
+      <title>60a95dc31bbc56630c079dcfcc95ec53_MIT6_004s09_lec17.pdf</title>
+    </bookmark>
+    <bookmark href="https://javascript.info/" id="314">
+      <title>The Modern JavaScript Tutorial</title>
+    </bookmark>
+    <bookmark href="https://eloquentjavascript.net/" id="315">
+      <title>Eloquent JavaScript</title>
+    </bookmark>
+    <bookmark href="https://lainzine.org/about" id="316">
+      <title>i see you, you see me</title>
+    </bookmark>
+    <bookmark href="https://lainzine.org/archive" id="317">
+      <title>gone, but not forgotten</title>
+    </bookmark>
+    <bookmark href="https://github.com/FrontendMasters/api-design-node-v3/blob/master/src/resources/item/item.router.js" id="318">
+      <title>api-design-node-v3/src/resources/item/item.router.js at master · FrontendMasters/api-design-node-v3</title>
+    </bookmark>
+    <bookmark href="https://csv.js.org/parse/examples/async_iterator/" id="319">
+      <title>CSV Parse - Async iterator</title>
+    </bookmark>
+    <bookmark href="https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx" id="320">
+      <title>Calculus I</title>
+    </bookmark>
+    <bookmark href="https://lineararray.vercel.app/posts/open-source" id="321">
+      <title>How to get started with contributing to Open Source?</title>
+    </bookmark>
+    <bookmark href="https://craftinginterpreters.com/" id="322">
+      <title>Crafting Interpreters</title>
+    </bookmark>
+    <bookmark href="https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html" id="323">
+      <title>The ultimate guide to Haskell Strings · Hasufell&apos;s blog</title>
+    </bookmark>
+    <bookmark href="https://way-cooler.org/book/hello_world.html" id="324">
+      <title>Hello World -</title>
+    </bookmark>
+    <bookmark href="https://www.studocu.com/row/course/tribhuvan-vishwavidalaya/bachelors-of-computer-application/5169280?origin=document-viewer" id="325">
+      <title>Bachelors of computer application - bca 45028 - TU - Studocu</title>
+    </bookmark>
+    <bookmark href="https://studylib.net/viewer_next/web/study?file=%2F%2Fs2p.studylib.net%2Fstore%2Fdata%2F027348584.pdf%3Fk%3DEwAAAY-y8r_MAAACWCQAGgC9EdglAuBM__78o02Mb4HwaSKrM68LTjRDWNsO&amp;img=%2F%2Fs2.studylib.net%2Fstore%2Fdata%2F027348584_1-27308194008c2012cba9d1687fa6fa5a.png" id="326">
+      <title>concurrecn</title>
+    </bookmark>
+    <bookmark href="https://www.how2neovim.io/getting-started/what-is-neovim/" id="327">
+      <title>Introduction | how2neovim</title>
+    </bookmark>
+    <bookmark href="https://killercoda.com/" id="328">
+      <title>Killercoda Interactive Environments</title>
+    </bookmark>
+    <bookmark href="https://csperkins.org/" id="329">
+      <title>Colin Perkins</title>
+    </bookmark>
+    <bookmark href="https://book.systemsapproach.org/foundation/problem.html" id="330">
+      <title>Problem: Building a Network — Computer Networks: A Systems Approach Version 6.2-dev documentation</title>
+    </bookmark>
+    <bookmark href="https://web.mit.edu/6.005/www/fa15/classes/09-immutability/#mutation_undermines_an_iterator" id="331">
+      <title>Reading 9: Mutability &amp; Immutability</title>
+    </bookmark>
+    <bookmark href="https://well-typed.com/blog/2020/06/zurihac-2020-advanced-track-materials/" id="332">
+      <title>ZuriHac 2020 Advanced Track Materials - Well-Typed: The Haskell Consultants</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/file/d/1KNZTQDNHMXOWerij5GsVmoJIiA5umG3i/view" id="333">
+      <title>ZuriHac-2020-WT-AdvancedTrack-Haskell-and-Infosec.pdf - Google Drive</title>
+    </bookmark>
+    <bookmark href="https://makefiletutorial.com/" id="334">
+      <title>Makefile Tutorial By Example</title>
+    </bookmark>
+    <bookmark href="https://learnyouahaskell.com/for-a-few-monads-more#writer" id="335">
+      <title>For a Few Monads More - Learn You a Haskell for Great Good!</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/Mathematical_logic" id="336">
+      <title>Mathematical logic - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://www.hypexr.org/index.php" id="337">
+      <title>www.hypexr.org</title>
+    </bookmark>
+    <bookmark href="https://x.com/7etsuo/status/1803561496628306352" id="338">
+      <title>Tetsuo – (e/acc) on X: &quot;These are the best books you can buy to learn x86-64 assembly. 🧵1/n God tier collection of papers videos exercises and lectures👇 https://t.co/fd6wDdQbyF&quot; / X</title>
+    </bookmark>
+    <bookmark href="https://norasandler.com/2017/11/29/Write-a-Compiler.html" id="339">
+      <title>Writing a C Compiler, Part 1</title>
+    </bookmark>
+    <bookmark href="https://briancallahan.net/blog/20210814.html" id="340">
+      <title>Brian Robert Callahan</title>
+    </bookmark>
+    <bookmark href="https://craftinginterpreters.com/contents.html" id="341">
+      <title>Table of Contents · Crafting Interpreters</title>
+    </bookmark>
+    <bookmark href="https://www.learnc.net/c-data-structures/c-linked-list/" id="342">
+      <title>C Linked List</title>
+    </bookmark>
+    <bookmark href="https://en.wikipedia.org/wiki/Persistent_data_structure" id="343">
+      <title>Persistent data structure - Wikipedia</title>
+    </bookmark>
+    <bookmark href="https://see.stanford.edu/Course/CS107" id="344">
+      <title>Stanford Engineering Everywhere | CS107 - Programming Paradigms</title>
+    </bookmark>
+    <bookmark href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/" id="345">
+      <title>RISC vs. CISC</title>
+    </bookmark>
+    <bookmark href="https://see.stanford.edu/Course" id="346">
+      <title>Stanford Engineering Everywhere | Courses</title>
+    </bookmark>
+    <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22" id="347">
+      <title>2015 Fall: 15-213 Introduction to Computer Systems : Panopto</title>
+    </bookmark>
+    <bookmark href="http://www.cs.cmu.edu/~213/" id="348">
+      <title>15-213/15-513 Introduction to Computer Systems</title>
+    </bookmark>
+    <bookmark href="https://beej.us/guide/bgc/html/split/index.html" id="349">
+      <title>Beej&apos;s Guide to C Programming</title>
+    </bookmark>
+    <bookmark href="https://viewsourcecode.org/snaptoken/kilo/" id="350">
+      <title>Build Your Own Text Editor</title>
+    </bookmark>
+    <bookmark href="https://austinhenley.com/blog/challengingprojects.html" id="351">
+      <title>Challenging projects every programmer should try - Austin Z. Henley</title>
+    </bookmark>
+    <bookmark href="http://www.cs.cmu.edu/afs/cs/academic/class/15213-m17/www/schedule.html" id="352">
+      <title>15-213/18-218: Introduction to Computer Systems / Schedule Summer 2017</title>
+    </bookmark>
+    <bookmark href="http://csapp.cs.cmu.edu/3e/docs/dsa.pdf" id="353">
+      <title>allocsrv.dvi - dsa.pdf</title>
+    </bookmark>
+    <bookmark href="https://cs.stanford.edu/people/eroberts/courses/soco/" id="354">
+      <title>Sophomore College</title>
+    </bookmark>
+    <bookmark href="https://cs.stanford.edu/people/eroberts/index.html" id="355">
+      <title>Eric Roberts: Home Page</title>
+    </bookmark>
+    <bookmark href="https://www.raylib.com/" id="356">
+      <title>raylib | A simple and easy-to-use library to enjoy videogames programming</title>
+    </bookmark>
+    <bookmark href="https://austinhenley.com/blog/teenytinycompiler1.html" id="357">
+      <title>Let&apos;s make a Teeny Tiny compiler, part 1 - Austin Z. Henley</title>
+    </bookmark>
+    <bookmark href="https://osblog.stephenmarz.com/index.html" id="358">
+      <title>Stephen Marz: Blog</title>
+    </bookmark>
+    <bookmark href="https://aymanbagabas.com/blog/2018/09/17/chip-8-emulator.html" id="359">
+      <title>Writing a Chip-8 emulator · Ayman Bagabas</title>
+    </bookmark>
+    <bookmark href="https://invisible-island.net/ncurses/ncurses-intro.html" id="360">
+      <title>Writing Programs with NCURSES</title>
+    </bookmark>
+    <bookmark href="https://www.oreilly.com/openbook/make3/book/" id="361">
+      <title>https://www.oreilly.com/openbook/make3/book/</title>
+    </bookmark>
+    <bookmark href="https://www.c-for-dummies.com/ncurses/" id="362">
+      <title>NCurses Stuff</title>
+    </bookmark>
+    <bookmark href="https://ubuntu.com/server/docs/wireguard-vpn-peer-to-site" id="363">
+      <title>WireGuard VPN peer-to-site | Ubuntu</title>
+    </bookmark>
+    <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22&amp;sortColumn=0&amp;sortAscending=true" id="364">
+      <title>Fall 2023: 10-301/601 Introduction to Machine Learning : Panopto</title>
+    </bookmark>
+    <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22ba4ffc7c-f838-4722-bdae-05a65335f499%22" id="365">
+      <title>2012 Summer 08-723 Mobile Application Development for iOS and Andriod : Panopto</title>
+    </bookmark>
+    <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%2207756bb0-b872-4a4a-95b1-b77ad206dab3%22" id="366">
+      <title>2013 Fall: 15-819 Advanced Topics in Programming Languages : Panopto</title>
+    </bookmark>
+    <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22dec5d23e-fec9-4f51-b532-f7adcf31276c%22" id="367">
+      <title>2013 Spring: 15-418: Parallel Computer Architecture and Programming : Panopto</title>
+    </bookmark>
+    <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22" id="368">
+      <title>2015 Spring: 15-418 Parallel Computer Architecture and Programming : Panopto</title>
+    </bookmark>
+    <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%22d8865cf8-1bce-4c36-a83b-ab7a012bf957%22" id="369">
+      <title>Panopto Training Videos : Panopto</title>
+    </bookmark>
+    <bookmark href="https://plackyhacker.com/posts/64_bit_shellcode_1.aspx" id="370">
+      <title>Home of the plackyhacker</title>
+    </bookmark>
+    <bookmark href="https://www.barbarianmeetscoding.com/notes/neovim-lazyvim/" id="371">
+      <title>LazyVim - A beautiful neovim config for the lazy | Barbarian Meets Coding</title>
+    </bookmark>
+    <bookmark href="https://math.hws.edu/graphicsbook/" id="372">
+      <title>Introduction to Computer Graphics -- Title Page</title>
+    </bookmark>
+    <bookmark href="https://www.timeanddate.com/calendar/?year=2024&amp;country=187" id="373">
+      <title>Year 2024 Calendar – Nepal</title>
+    </bookmark>
+    <bookmark href="https://web.archive.org/web/20210423030302/https://ntuck-neu.site/2020-09/cs3650/" id="374">
+      <title>CS3650 - Computer Systems · ntuck@neu</title>
+    </bookmark>
+  </folder>
+  <folder id="51">
+    <title>Tutorials</title>
+    <bookmark href="https://training.linuxfoundation.org/resources/?_sft_content_type=free-course" id="375">
+      <title>Resources - Linux Foundation - Training</title>
+    </bookmark>
+    <bookmark href="https://labs.iximiuz.com/" id="376">
+      <title>iximiuz Labs - Indie Learning Platform to Master Server Side Craft</title>
+    </bookmark>
+  </folder>
+  <folder id="52">
+    <title>Programming Resources</title>
+    <bookmark href="https://teachyourselfcs.com/" id="377">
+      <title>Teach Yourself Computer Science</title>
+    </bookmark>
+    <bookmark href="https://github.com/ossu/computer-science" id="378">
+      <title>ossu/computer-science: 🎓 Path to a free self-taught education in Computer Science!</title>
+    </bookmark>
+    <bookmark href="https://docs.vulkan.org/tutorial/latest/03_Drawing_a_triangle/00_Setup/01_Instance.html" id="379">
+      <title>Instance :: Vulkan Documentation Project</title>
+    </bookmark>
+    <bookmark href="https://letslearntogether.neocities.org/compute" id="380">
+      <title>Let&apos;s Learn Together - Computing</title>
+    </bookmark>
+    <bookmark href="https://docs.tinygrad.org/quickstart/" id="381">
+      <title>Quickstart - tinygrad docs</title>
+    </bookmark>
+  </folder>
+  <folder id="53">
+    <title>Study Materials</title>
+    <bookmark href="https://www.computer-networking.info/2nd/html/index.html" id="382">
+      <title>Computer Networking : Principles, Protocols and Practice, 2nd edition — Computer Networking : Principles, Protocols and Practice</title>
+    </bookmark>
+    <bookmark href="https://leanpub.com/haskell-cookbook/read" id="383">
+      <title>Read Haskell Tutorial and Cookbook | Leanpub</title>
+    </bookmark>
+    <bookmark href="https://haskell.mooc.fi/" id="384">
+      <title>Haskell MOOC</title>
+    </bookmark>
+    <bookmark href="https://www.cg.tuwien.ac.at/" id="385">
+      <title>Research Unit of Computer Graphics | TU Wien – Research Unit of Computer Graphics</title>
+    </bookmark>
+  </folder>
+  <folder id="54">
+    <title>ExtraThings</title>
+    <bookmark href="https://www.jstor.org/" id="386">
+      <title>JSTOR Home</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/vinhjaxt/a774ac87b0313a34f4c445048d8e13cf" id="387">
+      <title>Windows server officials ISO file</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://c3rb3ru5d3d53c.github.io/posts/" id="55">
+    <title>All Posts - Malware Hell</title>
+  </bookmark>
+  <bookmark href="https://pikchr.org/home/uv/gpic.pdf" id="56">
+    <title>gpic.pdf</title>
+  </bookmark>
+  <bookmark href="https://aboutideasnow.com/?filter=ideas" id="57">
+    <title>About Ideas Now | Search 1000s of personal sites</title>
+  </bookmark>
+  <bookmark href="https://www.perplexity.ai/" id="58">
+    <title>Perplexity</title>
+  </bookmark>
+  <bookmark href="https://arxiv.org/pdf/2407.21783" id="59">
+    <title>2407.21783v2.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.schaffter.ca/mom/mom-04.html#paperback" id="60">
+    <title>Mom - Macros for GNU troff: Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/theevilwithin/comments/dtbxlo/evil_within_damage_mechanics/" id="61">
+    <title>Evil Within Damage Mechanics : r/theevilwithin</title>
+  </bookmark>
+  <bookmark href="https://freedns.afraid.org/zc.php?from=L3N1YmRvbWFpbi8=" id="62">
+    <title>FreeDNS - Free subdomain AND domain hosting!</title>
+  </bookmark>
+  <bookmark href="https://strawberryreverie.neocities.org/media/music/favoritealbums" id="63">
+    <title>VIRTUAL DREAMLAND</title>
+  </bookmark>
+  <bookmark href="http://www.gamezero.com/team-0/articles/math_magic/micro/" id="64">
+    <title>The Math Behind the Magic</title>
+  </bookmark>
+  <bookmark href="https://firewalld.org/documentation/concepts.html" id="65">
+    <title>Documentation - Concepts | firewalld</title>
+  </bookmark>
+  <bookmark href="https://beej.us/guide/bgnet/" id="66">
+    <title>Beej&apos;s Guide to Network Programming</title>
+  </bookmark>
+  <bookmark href="https://collegenote.net/courses/network-programming-148" id="67">
+    <title>Network Programming - Syllabus</title>
+  </bookmark>
+  <bookmark href="https://p403n1x87.github.io/getting-started-with-x86-64-assembly-on-linux.html" id="68">
+    <title>The Hub of Heliopolis - Getting Started with x86-64 Assembly on Linux</title>
+  </bookmark>
+  <bookmark href="https://cburch.com/csbsju/cs/350/docs/nasm/nasmdoc0.html" id="69">
+    <title>NASM Manual</title>
+  </bookmark>
+  <bookmark href="https://www.manning.com/corporate-splash" id="70">
+    <title>Free content compliments of our partners</title>
+  </bookmark>
+  <bookmark href="https://web.mit.edu/gnu/doc/html/rlman_2.html" id="71">
+    <title>GNU Readline Library - Programming with GNU Readline</title>
+  </bookmark>
+  <bookmark href="https://web.mit.edu/gnu/doc/html/rlman_toc.html#SEC1" id="72">
+    <title>GNU Readline Library - Table of Contents</title>
+  </bookmark>
+  <bookmark href="https://lwn.net/" id="73">
+    <title>Welcome to LWN.net [LWN.net]</title>
+  </bookmark>
+  <bookmark href="https://neocities.org/" id="74">
+    <title>Neocities: Create your own free website!</title>
+  </bookmark>
+  <bookmark href="https://github.com/MalbianLinux/MalbianLinux" id="75">
+    <title>MalbianLinux/MalbianLinux</title>
+  </bookmark>
+  <bookmark href="https://prolug.org/" id="76">
+    <title>Home - ProLUG</title>
+  </bookmark>
+  <bookmark href="https://www.roppers.org/collections" id="77">
+    <title>Courses</title>
+  </bookmark>
+  <bookmark href="https://public.cyber.mil/stigs/downloads/" id="78">
+    <title>STIGs Document Library – DoD Cyber Exchange</title>
+  </bookmark>
+  <bookmark href="https://coderefinery.org/" id="79">
+    <title>CodeRefinery</title>
+  </bookmark>
+  <bookmark href="https://raw.githubusercontent.com/bobbyiliev/introduction-to-bash-scripting/main/ebook/en/export/introduction-to-bash-scripting-light.pdf" id="80">
+    <title>Introduction to Bash Scripting - introduction-to-bash-scripting-light.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.kernel.org/doc/html/v4.16/process/howto.html" id="81">
+    <title>HOWTO do Linux kernel development — The Linux Kernel documentation</title>
+  </bookmark>
+  <bookmark href="https://www.kernel.org/" id="82">
+    <title>The Linux Kernel Archives</title>
+  </bookmark>
+  <bookmark href="https://www.linux.com/training-tutorials/" id="83">
+    <title>Training and Tutorials - Linux.com</title>
+  </bookmark>
+  <bookmark href="https://kernelnewbies.org/" id="84">
+    <title>Linux_Kernel_Newbies - Linux Kernel Newbies</title>
+  </bookmark>
+  <bookmark href="https://summerofcode.withgoogle.com/programs/2025/organizations" id="85">
+    <title>Program Organizations | Google Summer of Code</title>
+  </bookmark>
+  <bookmark href="https://elixir.bootlin.com/linux/v6.13.7/source/README" id="86">
+    <title>README - Linux source code v6.13.7 - Bootlin Elixir Cross Referencer</title>
+  </bookmark>
+  <bookmark href="https://linuxreviews.org/LinuxReviews" id="87">
+    <title>LinuxReviews</title>
+  </bookmark>
+  <bookmark href="https://linux-mm.org/LinuxMM" id="88">
+    <title>LinuxMM - linux-mm.org Wiki</title>
+  </bookmark>
+  <bookmark href="https://lwn.net/Kernel/LDD3/" id="89">
+    <title>Linux Device Drivers, Third Edition [LWN.net]</title>
+  </bookmark>
+  <bookmark href="https://www.cprogramming.com/" id="90">
+    <title>Learn C and C++ Programming - Cprogramming.com</title>
+  </bookmark>
+  <bookmark href="https://fmhy.net/edupiracyguide" id="91">
+    <title>Educational • freemediaheckyeah</title>
+  </bookmark>
+  <bookmark href="https://norvig.com/21-days.html" id="92">
+    <title>Teach Yourself Programming in Ten Years</title>
+  </bookmark>
+  <bookmark href="https://teaching.well-typed.com/intro/" id="93">
+    <title>Introduction to Haskell - Well-Typed: The Haskell Consultants</title>
+  </bookmark>
+  <bookmark href="https://developers.redhat.com/articles/2024/08/07/what-gpu-programming#" id="94">
+    <title>What is GPU programming? | Red Hat Developer</title>
+  </bookmark>
+  <bookmark href="https://www.gnu.org/software/c-intro-and-ref/manual/html_node/index.html#SEC_Contents" id="95">
+    <title>Top (GNU C Language Manual)</title>
+  </bookmark>
+  <bookmark href="https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/" id="96">
+    <title>Operating System Engineering | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+  </bookmark>
+  <bookmark href="https://pdos.lcs.mit.edu/6.828/2024/schedule.html" id="97">
+    <title>6.1810 / Fall 2024</title>
+  </bookmark>
+  <bookmark href="https://gfxcourses.stanford.edu/cs149/fall24" id="98">
+    <title>https://gfxcourses.stanford.edu/cs149/fall24</title>
+  </bookmark>
+  <bookmark href="https://web.stanford.edu/class/cs111/" id="99">
+    <title>CS111 Operating Systems Principles</title>
+  </bookmark>
+  <bookmark href="https://wiki.osdev.org/Expanded_Main_Page" id="100">
+    <title>Expanded Main Page - OSDev Wiki</title>
+  </bookmark>
+  <bookmark href="https://github.com/sysprog21/lkmpg" id="101">
+    <title>sysprog21/lkmpg: The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)</title>
+  </bookmark>
+  <bookmark href="https://www.akkadia.org/drepper/cpumemory.pdf" id="102">
+    <title>What Every Programmer Should Know About Memory - cpumemory.pdf</title>
+  </bookmark>
+  <bookmark href="https://docs.oracle.com/javase/tutorial/index.html" id="103">
+    <title>The Java™ Tutorials</title>
+  </bookmark>
+  <bookmark href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#view=2&amp;folderID=%222be55024-d2d3-4a3c-ac9c-9b348ddce5c4%22" id="104">
+    <title>2015 Summer: 15-213 Introduction to Computer Systems : Panopto</title>
+  </bookmark>
+  <bookmark href="https://pubs.opengroup.org/onlinepubs/9799919799/" id="105">
+    <title>The Open Group Base Specifications Issue 8</title>
+  </bookmark>
+  <bookmark href="https://marabos.nl/atomics/" id="106">
+    <title>Rust Atomics and Locks by Mara Bos</title>
+  </bookmark>
+  <bookmark href="https://rust-for-rustaceans.com/" id="107">
+    <title>Rust for Rustaceans by Jon Gjengset</title>
+  </bookmark>
+  <bookmark href="https://docs.kernel.org/index.html" id="108">
+    <title>The Linux Kernel documentation — The Linux Kernel documentation</title>
+  </bookmark>
+  <bookmark href="https://accuconference.org/" id="109">
+    <title>ACCU 2025</title>
+  </bookmark>
+  <bookmark href="https://learningnetwork.cisco.com/s/ccna" id="110">
+    <title>CCNA</title>
+  </bookmark>
+  <bookmark href="http://xahlee.info/comp/comp_index.html" id="111">
+    <title>Hacker Cult</title>
+  </bookmark>
+  <bookmark href="https://thestrangeloop.com/index.html" id="112">
+    <title>Home - Strange Loop</title>
+  </bookmark>
+  <bookmark href="https://devdocs.io/" id="113">
+    <title>DevDocs API Documentation</title>
+  </bookmark>
+  <bookmark href="https://play.picoctf.org/login" id="114">
+    <title>picoCTF - Login</title>
+  </bookmark>
+  <bookmark href="https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf" id="115">
+    <title>TCP/IP Tutorial and Technical Overview - gg243376.pdf</title>
+  </bookmark>
+  <bookmark href="https://littleosbook.github.io/#first-steps" id="116">
+    <title>The little book about OS development</title>
+  </bookmark>
+  <bookmark href="https://haskell.mooc.fi/part1#monoids" id="117">
+    <title>Haskell MOOC</title>
+  </bookmark>
+  <bookmark href="file:///home/simpleshun/Downloads/lkmpg.pdf" id="118">
+    <title>lkmpg.pdf</title>
+  </bookmark>
+  <bookmark href="https://www.cs.cmu.edu/~213/schedule.html" id="119">
+    <title>15-213/15-513 Introduction to Computer Systems: Schedule</title>
+  </bookmark>
+  <bookmark href="https://gfxcourses.stanford.edu/cs149/fall23/" id="120">
+    <title>https://gfxcourses.stanford.edu/cs149/fall23/</title>
+  </bookmark>
+  <bookmark href="https://www.linusakesson.net/" id="121">
+    <title>linusakesson.net</title>
+  </bookmark>
+  <bookmark href="https://0xinfection.github.io/reversing/pages/part-14-flags.html" id="122">
+    <title>Part 14: Flags · Reverse Engineering</title>
+  </bookmark>
+  <bookmark href="https://beej.us/guide/bgnet/html/split-wide/system-calls-or-bust.html" id="123">
+    <title>Beej&apos;s Guide to Network Programming</title>
+  </bookmark>
+  <bookmark href="https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/how_does_opencl_work.md" id="124">
+    <title>OpenCL-Guide/chapters/how_does_opencl_work.md at main · KhronosGroup/OpenCL-Guide</title>
+  </bookmark>
+  <bookmark href="https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/" id="125">
+    <title>Operating System Engineering | Electrical Engineering and Computer Science | MIT OpenCourseWare</title>
+  </bookmark>
+  <bookmark href="https://pdos.csail.mit.edu/6.828/2024/tools.html" id="126">
+    <title>6.1810 / Fall 2024</title>
+  </bookmark>
+  <bookmark href="https://pdos.lcs.mit.edu/6.828/2024/xv6/book-riscv-rev4.pdf" id="127">
+    <title>xv6: a simple, Unix-like teaching operating system - book-riscv-rev4.pdf</title>
+  </bookmark>
+  <bookmark href="https://craftinginterpreters.com/representing-code.html" id="128">
+    <title>Representing Code · Crafting Interpreters</title>
+  </bookmark>
+  <bookmark href="https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_linux.md" id="129">
+    <title>OpenCL-Guide/chapters/getting_started_linux.md at main · KhronosGroup/OpenCL-Guide</title>
+  </bookmark>
+  <bookmark href="https://gfxcourses.stanford.edu/cs149/fall24/" id="130">
+    <title>https://gfxcourses.stanford.edu/cs149/fall24/</title>
+  </bookmark>
+  <bookmark href="https://marabos.nl/atomics/os-primitives.html" id="131">
+    <title>Rust Atomics and Locks — Chapter 8. Operating System Primitives</title>
+  </bookmark>
+  <bookmark href="https://herecomesthemoon.net/2025/04/pipelining/" id="132">
+    <title>Pipelining might be my favorite programming language feature | MOND←TECH MAGAZINE</title>
+  </bookmark>
+  <bookmark href="https://blog.janetacarr.com/mindset-shifts-for-functional-programming-with-clojure/" id="133">
+    <title>Mindset shifts for Functional Programming (with Clojure)</title>
+  </bookmark>
+  <bookmark href="https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/history.html" id="134">
+    <title>History of Unix, Linux, and Open Source / Free Software</title>
+  </bookmark>
+  <bookmark href="https://docs.oracle.com/en/java/javase/24/index.html" id="135">
+    <title>JDK 24 Documentation - Home</title>
+  </bookmark>
+  <bookmark href="https://www.cct.lsu.edu/~sbrandt/csc1351/" id="136">
+    <title>Steven R. Brandt</title>
+  </bookmark>
+  <bookmark href="https://www.vogella.com/" id="137">
+    <title>Eclipse, Android and Java training and support</title>
+  </bookmark>
+  <bookmark href="https://www.r-5.org/files/books/computers/languages/java/style/Venkat_Subramaniam-Functional_Programming_in_Java-EN.pdf" id="138">
+    <title>Functional Programming in Java - Venkat_Subramaniam-Functional_Programming_in_Java-EN.pdf</title>
+  </bookmark>
+  <bookmark href="file:///usr/share/javadoc/java-24-openjdk/api/index.html" id="139">
+    <title>Overview (Java SE 24 &amp; JDK 24)</title>
+  </bookmark>
+  <bookmark href="https://blog.ezyang.com/2011/05/unraveling-the-mystery-of-the-io-monad/" id="140">
+    <title>Unraveling the mystery of the IO monad : ezyang’s blog</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/6647852/haskell-actual-io-monad-implementation-in-different-language" id="141">
+    <title>Haskell: actual IO monad implementation, in different language? - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://byorgey.wordpress.com/catsters-guide-2/#introduction" id="142">
+    <title>Catsters guide | blog :: Brent -&gt; [String]</title>
+  </bookmark>
+  <bookmark href="https://www.server-world.info/en/note?os=Fedora_42&amp;p=initial_conf&amp;f=3" id="143">
+    <title>Fedora 42 : Initial Settings : Networking : Server World</title>
+  </bookmark>
+  <bookmark href="https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html" id="144">
+    <title>Welcome to the SICP Web Site</title>
+  </bookmark>
+  <bookmark href="https://sacred-texts.com/index.htm" id="145">
+    <title>ISTA - Internet Sacred Text Archive Home</title>
+  </bookmark>
+  <bookmark href="https://bartoszmilewski.com/" id="146">
+    <title>  Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
+  </bookmark>
+  <bookmark href="https://frontendmasters.com/my-account/settings/" id="147">
+    <title>My Account | Settings | Frontend Masters</title>
+  </bookmark>
+  <bookmark href="https://hott.github.io/book/hott-online-15-ge428abf.pdf" id="148">
+    <title>Homotopy Type Theory: Univalent Foundations of Mathematics - hott-online-15-ge428abf.pdf</title>
+  </bookmark>
+  <folder id="149">
+    <title>intern</title>
+    <bookmark href="https://deltatechnepal.com/" id="388">
+      <title>Delta Tech: Software Company, Offering the best Digital Product &amp; Services</title>
+    </bookmark>
+    <bookmark href="https://www.vogella.com/tutorials/JUnit/article.html" id="389">
+      <title>JUnit 5 tutorial - Learn how to write unit tests</title>
+    </bookmark>
+    <bookmark href="https://tao-of-tmux.readthedocs.io/en/latest/manuscript/09-status-bar.html" id="390">
+      <title>Status bar and styling {#status-bar} — tao-of-tmux v1.0.2 documentation</title>
+    </bookmark>
+  </folder>
+  <folder id="150">
+    <title>hok</title>
+    <bookmark href="https://pvp.qq.com/matchdata/scheduleDetails.html?league_id=20250002&amp;match_id=2025082101" id="391">
+      <title>2025年KPL夏季赛</title>
+    </bookmark>
+    <bookmark href="https://pvp.qq.com/web201605/item.shtml#none" id="392">
+      <title>装备介绍-王者荣耀官方网站-腾讯游戏</title>
+    </bookmark>
+    <bookmark href="https://live.bilibili.com/p/eden/area-tags?parentAreaId=3&amp;areaId=35" id="393">
+      <title>哔哩哔哩直播</title>
+    </bookmark>
+    <bookmark href="https://austinhenley.com/blog/challengingalgorithms.html" id="394">
+      <title>Challenging algorithms and data structures every programmer should try - Austin Z. Henley</title>
+    </bookmark>
+    <bookmark href="https://docs.oracle.com/javase/tutorial/java/javaOO/initial.html" id="395">
+      <title>Initializing Fields (The Java™ Tutorials &gt; Learning the Java Language &gt; Classes and Objects)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=bESGLojNYSo&amp;list=RDnRTBM4UwnBs&amp;index=3" id="396">
+      <title>(9) Lady Gaga - Poker Face (Official Music Video) - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="151">
+    <title>Theory</title>
+    <bookmark href="https://www.pbr-book.org/4ed/contents" id="397">
+      <title>Physically Based Rendering: From Theory to Implementation</title>
+    </bookmark>
+    <bookmark href="https://paroj.github.io/gltut/Building%20the%20Tutorials.html" id="398">
+      <title>Building the Tutorials</title>
+    </bookmark>
+    <bookmark href="https://docs.vulkan.org/tutorial/latest/01_Overview.html" id="399">
+      <title>Overview :: Vulkan Documentation Project</title>
+    </bookmark>
+    <bookmark href="https://www.feynmanlectures.caltech.edu/I_01.html#footnote_source_2" id="400">
+      <title>The Feynman Lectures on Physics Vol. I Ch. 1: Atoms in Motion</title>
+    </bookmark>
+    <bookmark href="https://linux-kernel-labs.github.io/refs/heads/master/" id="401">
+      <title>Linux Kernel Teaching — The Linux Kernel documentation</title>
+    </bookmark>
+    <bookmark href="https://learncodethehardway.com/courses/learn-cpp-the-hard-way/1-the-basics/01-gearing-up/" id="402">
+      <title>Learn C++ the Hard Way: 01: Gearing Up</title>
+    </bookmark>
+    <bookmark href="https://pvp.qq.com/m/matchdata/detail.html?league_id=20250002&amp;match_id=2025082101" id="403">
+      <title>2025年KPL夏季赛</title>
+    </bookmark>
+  </folder>
+  <folder id="152">
+    <title>GameResources</title>
+    <bookmark href="https://polyhaven.com/" id="404">
+      <title>Poly Haven</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.bilibili.com/video/BV1WMMczLE9q/?spm_id_from=333.1387.upload.video_card.click&amp;vd_source=da4896b5e0fbb29ce37a51c1a24574b0" id="153">
+    <title>【神奇教学在这里】 万字教科书，改变全体对抗路玩家的一次，顶级对抗路秘籍_游戏热门视频</title>
+  </bookmark>
+  <bookmark href="https://linuxcommand.org/tlcl.php" id="154">
+    <title>Linux Command Line Books by William Shotts</title>
+  </bookmark>
+  <bookmark href="https://developers.redhat.com/" id="155">
+    <title>Red Hat Developers | Red Hat Developer</title>
+  </bookmark>
+  <bookmark href="https://docs.redhat.com/en" id="156">
+    <title>Red Hat Documentation</title>
+  </bookmark>
+  <bookmark href="https://redhat-crypto.gitlab.io/defensive-coding-guide/#_specific_programming_tasks" id="157">
+    <title>Defensive Coding Guide</title>
+  </bookmark>
+  <bookmark href="https://cs50.harvard.edu/x/" id="158">
+    <title>CS50x 2025</title>
+  </bookmark>
+  <bookmark href="https://gameprogrammingpatterns.com/contents.html" id="159">
+    <title>Table of Contents · Game Programming Patterns</title>
+  </bookmark>
+  <bookmark href="https://automatetheboringstuff.com/3e/chapter0.html" id="160">
+    <title>Automate the Boring Stuff with Python</title>
+  </bookmark>
+  <bookmark href="https://docs.rockylinux.org/guides/security/learning_selinux/" id="161">
+    <title>SELinux Security - Documentation</title>
+  </bookmark>
+  <bookmark href="https://www.linode.com/docs/guides/" id="162">
+    <title>Cloud Guides &amp; Tutorials | Linode Docs</title>
+  </bookmark>
+  <bookmark href="https://automatetheboringstuff.com/#toc" id="163">
+    <title>Automate the Boring Stuff with Python - Automate the Boring Stuff with Python</title>
+  </bookmark>
+  <bookmark href="https://docs.vulkan.org/spec/latest/chapters/introduction.html" id="164">
+    <title>Introduction :: Vulkan Documentation Project</title>
+  </bookmark>
+  <bookmark href="https://openjdk.org/" id="165">
+    <title>OpenJDK</title>
+  </bookmark>
+  <bookmark href="https://inside.java/" id="166">
+    <title>Inside.java</title>
+  </bookmark>
+  <bookmark href="https://www.appliedcategorytheory.org/resources/" id="167">
+    <title>Resources – APPLIED CATEGORY THEORY</title>
+  </bookmark>
+  <bookmark href="https://categoricaldata.net/" id="168">
+    <title>CQL</title>
+  </bookmark>
+  <bookmark href="https://www.feynmanlectures.caltech.edu/info/" id="169">
+    <title>The Feynman Lectures on Physics Website</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>Mobile Bookmarks</title>
+</folder>
+</xbel>
