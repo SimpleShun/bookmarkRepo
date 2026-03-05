@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :824: for Floccus bookmark sync browser extension -->
+<!--- highestId :826: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Menu</title>
@@ -1618,7 +1618,7 @@
         <title>ISTA - Internet Sacred Text Archive Home</title>
       </bookmark>
       <bookmark href="https://bartoszmilewski.com/" id="686">
-        <title>  Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
+        <title>Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
       </bookmark>
       <bookmark href="https://frontendmasters.com/my-account/settings/" id="687">
         <title>My Account | Settings | Frontend Masters</title>
@@ -1642,6 +1642,12 @@
   </bookmark>
   <bookmark href="https://www.vex.net/~trebla/haskell/index.xhtml" id="249">
     <title>Haskell Notes And Examples - Albert Y. C. Lai</title>
+  </bookmark>
+  <bookmark href="https://docs.freebsd.org/en/books/" id="825">
+    <title>Books | FreeBSD Documentation Portal</title>
+  </bookmark>
+  <bookmark href="https://bellard.org/" id="826">
+    <title>Fabrice Bellard&apos;s Home Page</title>
   </bookmark>
 </folder>
 <folder id="3">
@@ -2349,7 +2355,7 @@
     <title>ISTA - Internet Sacred Text Archive Home</title>
   </bookmark>
   <bookmark href="https://bartoszmilewski.com/" id="146">
-    <title>  Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
+    <title>Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
   </bookmark>
   <bookmark href="https://frontendmasters.com/my-account/settings/" id="147">
     <title>My Account | Settings | Frontend Masters</title>
