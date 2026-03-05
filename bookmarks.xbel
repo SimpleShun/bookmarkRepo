@@ -1617,11 +1617,11 @@
       <bookmark href="https://sacred-texts.com/index.htm" id="685">
         <title>ISTA - Internet Sacred Text Archive Home</title>
       </bookmark>
-      <bookmark href="https://bartoszmilewski.com/" id="686">
-        <title>Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
-      </bookmark>
       <bookmark href="https://frontendmasters.com/my-account/settings/" id="687">
         <title>My Account | Settings | Frontend Masters</title>
+      </bookmark>
+      <bookmark href="https://bartoszmilewski.com/" id="686">
+        <title>Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
       </bookmark>
     </folder>
     <bookmark href="https://www.reddit.com/r/learnfrench/comments/xw1f0m/french_learning_source_that_is_actually_free/" id="515">
@@ -2354,9 +2354,6 @@
   <bookmark href="https://sacred-texts.com/index.htm" id="145">
     <title>ISTA - Internet Sacred Text Archive Home</title>
   </bookmark>
-  <bookmark href="https://bartoszmilewski.com/" id="146">
-    <title>Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
-  </bookmark>
   <bookmark href="https://frontendmasters.com/my-account/settings/" id="147">
     <title>My Account | Settings | Frontend Masters</title>
   </bookmark>
@@ -2476,6 +2473,9 @@
   </bookmark>
   <bookmark href="https://www.feynmanlectures.caltech.edu/info/" id="169">
     <title>The Feynman Lectures on Physics Website</title>
+  </bookmark>
+  <bookmark href="https://bartoszmilewski.com/" id="146">
+    <title>Bartosz Milewski&apos;s Programming Cafe | Category Theory, Haskell, Concurrency, C++</title>
   </bookmark>
 </folder>
 <folder id="4">
